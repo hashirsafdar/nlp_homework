@@ -1,0 +1,26 @@
+ZooCube is a 2.5D puzzle video game developed by PuzzleKings and released in 2002 by Acclaim Entertainment. It was the first puzzle game for the GameCube. It was also released for PlayStation 2 in 2006 in Europe by Midas Interactive Entertainment.
+
+
+== Gameplay ==
+In ZooCube, players score points by matching animal heads that fall towards the faces of a rotatable cube. The player also needs to make matches quickly so that heads don't build up too much on the cube which can cause the player to lose, in a similar fashion to Tetris. Along the way, the player can acquire power-ups which can help the player in various way or hinder an opponent in multiplayer mode.
+
+
+== Plot ==
+A mad scientist named Dr. Buc Ooze has been conducting "controversial research into animal shaping" and has left many animals misshapen or in otherwise unnatural forms. In response, a machine called the "ZooCube" is created which reverses the effects Dr. Ooze's experiments. The player, named "Aon", is tasked with rescuing all the trapped animals, traveling aboard a "flying ark" and armed with the "ZooCube".
+
+
+== Development ==
+According to Nalin Sharma, the designer of ZooCube and CEO of PuzzleKings, he came up with the idea for ZooCube around 1996, while working for PA Consulting Group as a principal consultant. He was imagining how, "some thing or someone could survive if they were bombarded by lots of objects", which inspired some rough sketches that featured a cube as a central object. Nalin thought the idea had potential and soon began development of a game based on his sketches, entitled "Cubic Jiggler". Development started off poorly, because while Nalin had experience with C++, he lacked sufficient knowledge of 3D game development. He also had no 3D graphics card, which were relatively new at the time. However, despite these setbacks, the game was eventually completed after 3 years in development, with the help of the Direct3D graphics API, as well as a 3D graphics chip lent to him by 3dfx. Nalin submitted the game into a competition held by the magazine Edge and won, after which he partnered with Acclaim Entertainment to give his game a commercial release. Shortly thereafter, the game was work shopped in order to, "give it a marketing edge and broaden its appeal". Along the way, the title was changed to ZooCube, which would eventually be the title under which the game finally saw commercial release in 2002.
+
+
+== Reception ==
+ZooCube received mixed to positive reviews. It has a score of 67% on Metacritic. Game Informer wrote that ZooCube was "everything a puzzle game should be: simple, fast, hard, fun, addictive and serviceably pretty."ZooCube received two E3 awards in 2002. The first was "Best Puzzle Game for GBA" which was awarded to the Game Boy Advance release by IGN, while the Game Cube release was awarded "Best Puzzle Game" by Planet Gamecube.
+
+
+== References ==
+
+
+== External links ==
+ZooCube at MobyGames
+Zoocube.net
+Metacritic reviews

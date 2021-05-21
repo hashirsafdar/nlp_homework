@@ -1,0 +1,45 @@
+Mercedes-Benz World Racing is a racing simulation video game, developed by the German company Synetic GmbH and published by TDK Mediactive. The game was released in 2003. It was released for Windows, PlayStation 2, Xbox, and GameCube, and only the Xbox version was released in North America. A sequel, World Racing 2, was released in 2005.
+
+
+== Development ==
+Initially, it was announced that the game was being developed exclusively for the Xbox console. In December 2002, the developers clarified that, with a slight delay regarding the Xbox version, Mercedes-Benz World Racing would be released on other platforms, including the personal computer and the PlayStation 2 and GameCube game consoles.In 2003, after the game's release on the Xbox, the developers posted several trailers on the Internet that showed off various gameplay aspects. These included showing some of the locations and vehicles and demonstrating the ability to freely explore the map by "driving off" the race track right during the competition.
+In September of the same year, players had the opportunity to download a demo version of World Racing for personal computers. The demo includes one track from the full version, Hockenheimring, and four Mercedes-Benz models to drive - the SLK 230 Kompressor, G500, A 190 Twin and 300SL.
+Mercedes-Benz World Racing was eventually released on 20 March 2003 in a version for the Xbox console and a few months later, on 19 September, on the other announced gaming platforms. Notably, a year after the game's release, during the development of the second instalment, Synetic GmbH placed several additional vehicles (Slipstream V8, SandHopper, Super Race-Truck) on the public domain, which the user can add to the game at their discretion.
+The latest patch released, measuring 3.96 MB, updates the game to version 1.6.6 and, in addition to fixing some bugs, introduces a multiplayer mode to the game.
+The fan community developes new added cars and maps for the game, which can be found on websites dedicated to the game (see also the 'External links' section).
+
+
+== Gameplay ==
+Overall, except for a few different characteristics, the gameplay of Mercedes-Benz World Racing is fairly usual of a car simulator and comparable to games such as Need for Speed: Porsche Unleashed. One particular feature is the adjustable difficulty setting: by moving a slider on a scale from 'arcade' to 'realistic', the player selects the best option for themselves. This option affects both the vehicle's behaviour model, as well as its damageability and the artificial intelligence of the opponents.
+Completing 'championships' (stages with a defined number of tracks, into which the game is divided), the user unlocks previously unavailable cars that can be raced. New championships and races are also available as the game progresses. There are 16 championships, with a total of 117 tracks and 48 different missions. The simulated tracks represent real-world terrain from various countries, such as Japan, Mexico, Australia, the Nevada desert, the Alps, and race tracks in Germany.
+All courses differ in terms of weather conditions, type of road surface, etc. On some courses, the player can only drive specific vehicles, such as off-road vehicles. It's also noteworthy that the player is free to leave the race route and move freely around the location.
+There are 127 licensed Mercedes-Benz models in the game, with physical models and appearances closely resembling their real-life equivalents. Among the cars involved, in addition to modern models, there are cars considered "classic" (for example, the Mercedes-Benz W125). The cars' colour and some of the options that affect their behaviour on the road can be changed.
+The multiplayer mode, which is introduced with the patch to version 1.6.6, allows players to compete against each other over a local network or internet connection. The game also features a two-player split screen.
+Downloadable cars made by developers:
+ Four more vehicles (two not "licensed") have been added to the game in the form of add-ons - the Aston Martin DB5, the Mercedes-Benz Race Truck (racing truck, carried over from Mercedes-Benz Truck Racing), Slipstream V8 (muscle car resembling a second generation Buick Riviera) and SandHopper ATV 7000S (sand buggy).
+There is an option in the game to close or open the roof on convertible cars. To do this, when the desired car is displayed in the vehicle selection screen, the player can press "Delete" on the keyboard or a similar button depending on the input/console.
+
+
+=== Locations ===
+Competitions take place in the following countries: Australia, Japan, Mexico, Germany (Hockenheim as well as the Alps and a Test Centre) and the USA (Nevada, Area 51 and a generic East Coast city).
+
+
+== Reviews ==
+
+
+=== Xbox version ===
+
+
+=== Other versions ===
+
+
+=== Overall summary ===
+When the game was first released on Xbox, it had mixed reviews. They were similar or worse reviews to other platforms.
+Reviewing for the Xbox, GameSpot's reviewer Matthew Gallant said "It's not a stunningly accurate sim, it doesn't provide the sort of overview of Mercedes-Benz cars that you'd expect, and its graphical presentation has more than a few flaws." IGN's reviewer Justin Thompson said "The ability to leave the game's tracks and explore its massive environments, however, gives it a relaxing quality that's surprisingly refreshing." Official Xbox Magazine said "With 110 cars, seven stupidly gigantic courses, amazing (if arcadey) graphics, and staggering freedom of movement (once you unlock free roam modes), it's hard not to recommend this."
+A European reviewer on Xbox, Tom Bramwell, who was reviewing at the time for Eurogamer, said "It's too hard, it's a bit feebly constructed in places, and it plays too much like real driving, which, for a game laden with UFOs, is a bit of a contradiction."
+Reviewing for the PlayStation 2, PlayStation 2 Mag gave it a 5/10, and PlayStation 2 Max gave the game 5.2/10, giving the game mixed reviews. However, Play UK was very negative and gave it 28%.
+Reviewing for the GameCube, N-Europe gave the game 5/10.
+Reviewing for the PC, CVG gave it 5.4/10, and PC Gamer gave the game 5.2/10
+
+
+== References ==

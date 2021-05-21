@@ -1,0 +1,21 @@
+F1 Career Challenge (F1 Challenge '99-'02 for the Microsoft Windows version) is a racing video game based on four seasons: the 1999 Formula One season, the 2000 Formula One season, the 2001 Formula One season and the 2002 Formula One season.
+In the 2002 season, Nürburgring still uses its original layout. This was rectified in the Microsoft Windows version.
+
+
+== Background ==
+After losing the official F1 license from Formula One Administration Ltd. to a multi-year exclusive licensing contract between FOA and Sony Computer Entertainment Europe (publishers of the competing Formula One series on PlayStation/PlayStation 2) in late 2002 that became active starting from the 2003 season thus barring any developer EA included to make a game centered around these later seasons, the decision was made to produce one final game using the four seasons that EA Sports had previously licensed.
+Because of the progressing potential of the game engine, several assets were re-imagined in order to make them more realistic than ever before as well as making the game more adaptable for less powerful PCs. The car models and associated textures were rebuilt from scratch, whilst the physics engine was significantly improved over prior releases to provide a simulation that was critically lauded. In order to provide a more authentic simulation, every track received minor changes for each season covered, including sponsor boards (barring tobacco and alcohol advertising) as well as external visual changes.
+The modding capabilities of F1C, as it is occasionally referred to by its dedicated modding community, are extensive and since the game's release in 2003, has gone on to cover many different seasons of Formula One racing, as well as being able to simulate racing series outside of Formula One such as Le Mans Prototypes and NASCAR, among many others. This is due in part to the use of simple text files for several important game asset parameters such as the physics, cars, drivers, and tracks which has allowed the game to flourish on various online communities long since its release.
+
+
+== Errors and mistakes ==
+
+
+=== PlayStation 2 and Xbox version ===
+On the Teams and Drivers mode selection, the BAR team in 1999 was mentioned BAR Honda but in fact BAR Formula 1 1999 engine supplier was Supertec.
+During the career mode for the 2002 season, Felipe Massa was driven for Sauber in the United States Grand Prix at Indianapolis, instead of Heinz-Harald Frentzen.
+During the career mode for the first three rounds in 2002, the Ferrari drivers used Ferrari F2002, instead of Ferrari F2001 (first two for Michael Schumacher and first three for Rubens Barrichello).
+
+
+== External links ==
+F1 Career Challenge at MobyGames

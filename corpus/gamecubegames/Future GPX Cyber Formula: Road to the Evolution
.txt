@@ -1,0 +1,52 @@
+Future GPX Cyber Formula (新世紀GPX（フューチャーグランプリ）サイバーフォーミュラ, Fyūchā Guranpuri Saibā Fōmyura) is a 37-episode anime television series by Sunrise (Hajime Yatate), about racing in the future, where race cars are equipped with computer support systems called 'Cyber Systems'. It originally aired in Japan between March 15 and December 20, 1991. The TV series was later followed by four OVA series respectively titled: Double One, Zero, Saga, and Sin, and it was adapted into multiple games.
+
+
+== Summary ==
+
+The TV series focuses on both elements and their interaction and growth: the cyber system called Asurada and its driver named Hayato Kazami, son of the designer of Asurada.
+Asurada was originally developed secretly by MissingLink. Hayato's father, Hiroyuki Kazami, hoped to design the best cyber system in the world in order to build a best racing machine, which was a dream shared with his friends: Kojiro Sugo (the driver, later becoming the owner of Sugo team) and Tetsuichiro Kurumada (the mechanic, later becoming the manager of Sugo team). Kazami's ideal cyber system is not preloaded with optimal solutions (i.e., by prescribing deterministic optimal values for certain programmable situations), rather, is a "partner" that learns from and grows with the driver. This is the key distinguishing element from other cyber systems (and later becoming the conflicting divergence from OVA SIN's Ogre cyber system).
+When Asurada, the cyber system, was near completion, Kazami realized that Smith, a high level executive of Missinglink, wanted to sell Asurada to military for huge profit and making Asurada the ultimate AI in war machines. To avoid Smith's plan, Kazami installed Asurada in a prototype racing machine Asurada GSX with sophisticated encryption (i.e., Asurada would not work without Asurada GSX) and contacted Sugo to have Asurada GSX participate in the 10th Cyber Formula Grand Prix. The TV series actually starts with Kurumada and Hayato delivering Asurada GSX to the qualifying round in Fujioka Circuit. During the delivery, Smith sent men to rob Asurada GSX.
+To complete the delivery mission, Kurumada asked Hayato to drive Asurada GSX to the circuit (because the racing machine can be at least three times faster than its transporter and more capable in avoiding the robbery). Hayato activated Asurada GSX, which was programmed to lock to the first driver (another measure to counter Smith's evil intended military use).  Because of such lock, Hayato replaced the original driver and became a racer for the Sugo team (named Sugo Asurada). Hayato successfully escaped by interacting with Asurada (it is important to note how Asurada hinted that it must receive proper questions to provide solution options). The chase ended with a big explosion and Hayato safely arriving at the Fujioka Circuit for the qualification races.
+In the first qualifying round, Hayato races heatedly with Naoki Shinjyo from Team Aoi (a major car producer in Japan, it is a much bigger corporation than Sugo's). Hayato ended up in the third place. In the second qualifying round, Hayato met Johji Ohtomo, a racer from Albatross DDT (and a former rally racer). They become good friends and later Ohtomo. During Hayato's training at night, he is attacked by Smith's men and saved by Ohtomo. Their friendship further developed. In the race, Ohtomo hinted Hayato to pay attention to the weather.  Hayato thus followed closely to Ohtomo's racing strategy and successfully took advantage of an unexpected rain to gain positional advantage. As a result, regardless of Hayato's inexperience driving, he completed the race in third place. This means Sugo Team and Hayato obtain the necessary Super License to compete in the Cyber Formula (CF) Gran Prix (GPX) world championship.
+The victory in the Fujioka Circuit made Hayato overconfident (as a 14-year-old, he probably thought the success was due more to his ability rather than Ohtomo's winning strategy and Asurada GSX's superb abilities). Thus in the first round in Grand Canyon, US, Hayato false-started and took the lead of the race, but he received a 60-second time penalty. As a result, Hayato pushed Asurada to make up for the penalty. Eventually, Asurada GSX was abused and its engine blew. Hayato was forced to retire. This made him realize that he has next to no skill at all. Hayato went through a depression for while, but makes a comeback after he makes more friends and he gets a fourth place in the second race.
+In the third race, one of the racers, Knight Schumacher, crashed his car into Edelhi Bootsvorz's Missionel to protect Asurada from being attacked by him. Smith is killed after that, and Knight Schumacher is revealed to be Osamu Sugō, Asuka's brother, and Hayato learns that his father is already dead.
+With the shock of his father's death, Hayato loses his control in the qualifying round of the fourth race by activating the boost in a dangerous spot, resulting in Asurada GSX being totally wrecked up. The team then leaves to England to find his father's last gift, a new machine called Super Asurada SA-01. Hayato successfully unlocks Asurada's code and install Asurada into that machine and preparing for the next Grand Prix.
+In the fifth race however, Super Asurada is suffering a problem that it cannot change modes and will blow up if the machine races after sometime. But with Hayato and Asurada's trust towards each other, they finished the race in the first place safely. Shinjyo overpushes his car in the race against Hayato and gets his engine blown up right before the finish line.
+Entering Karl Richter von Randoll, a prince and a racing genius who falls in love with Asuka, and therefore, builds his rivalry with Hayato, after having a race duel, Randoll enters the Cyber GPX's sixth race and win first place. Shinjyo, even with a new car, loses in this race.
+In the seventh race, Hayato's friend, Bleed Kaga shows up and race for Shinjyo's team, while Shinjyo is forced into a secondary team. Shinjyo, though, worked up with his new team, almost winning this race. But because of the overuse of gas, his car stops right before the finish line. Shinjyo walked out and pushes the car to the finish line in fifth place.
+The 8th race is mostly like a duel between Hayato and Randoll, Hayato wins by the end and Randoll gets pushed into the sea.
+In the ninth race, Hayato is starting to lose his trust in Asurada. He crashes with Ohtomo in this race, forcing Ohtomo to retire the final race. Hayato, filled with rage, tries to destroy Asurada, but Asurada and his teammates snap some sense into him.
+With Super Asurada badly damaged, the Sugo team decides to use the old GSX until the repairs are finished. Hayato swaps his car during the middle of the race and catches up with Shinjyo and Randoll. After the heated race, Hayato wins the race and the Grand Prix in the end.
+
+
+== Production history ==
+Originally written by Hiroyuki Hoshiyama and directed by Mitsuo Fukuda, Future GPX Cyber Formula ran from March 15 to December 20, 1991 airing on Nippon Television. The series has since aired in the Philippines by ABS-CBN for Hero TV. In 2003 the series was released in English by Bandai.
+
+
+== Future GPX Cyber Formula 2 OVA series ==
+Future GPX Cyber Formula 2 is divided in four parts:
+
+Future GPX Cyber Formula 11 (Double One)
+1992 - 1993, 6 episodes. The sequel to the TV series. Hayato Kazami competes in the 11th Grand Prix in 2016 to defend his championship. However, he faces problems as the Super Asurada has already begun to show its age and his skills as a racer are falling beyond. Knight Schmacher returns to the forefront and challenges Hayato, pushing him to limits beyond everything he has seen up until this point. In this series, the Super Asurada upgrades to the Super Asurada AKF-11 (Double One, hence the series name and also the title for 2 consecutive championship wins). Hayato also develops an inertial drift run that he uses for the rest of the OVAs.Future GPX Cyber Formula ZERO
+1994 - 1995, 8 episodes. Hayato continues his career as a top racer in the 12th Grand Prix in 2017, but a severe accident caused by the "Zero Zone", forces him to reevaluate his career and retire, propose, and promise to never race again. Despite of this, Hayato yearns to race and eventually comes out of retirement to compete in the 13th Grand Prix in 2018. He must now deal with an enraged Asuka and master the "Zero Zone" to compete with everyone else's upgraded cars.Future GPX Cyber Formula SAGA
+1996 - 1997, 8 episodes. A disappointing showing in the 14th Grand Prix in 2019 pushes Hayato to switch machines to the Sugo Garland SF-03 in the 15th Grand Prix in 2020. A major restructuring at Aoi Zip Formula brings in a new team president in Kyoshiro Nagumo. Nagumo brings a new, almost unbeatable precision machine driven by Phil Fritz into the fold causes major waves in the Cyber Formula world. Hayato eventually returns to using the upgraded N-Asurada AKF-0. He dominates the competition with a newly invented "Lifting Turn" which incorporates his own drift style with Asurada's fan control.Future GPX Cyber Formula SIN
+1998 - 2000, 5 episodes. The story deeply explores into the rivalry between Hayato and Kaga in 2022. As the sponsor plans to pull the disgraceful racing team out of business, Kaga makes his desperate challenge against Hayato with his inferior machine. However, the tide turns as Kaga is offered a chance to drive the mysterious racing car, 'Ogre AN-21', privately presented by Kyoshiro Nagumo. The rivalry, which has lasted since 2018, reaches the climax as Hayato learns the secret behind the Ogre and hopes to defeat his arch-rival once again, while Kaga pledges to claim his first and the final champion title in the Cyber Formula with his so-called monstrous machine. A bonus ending video is included with the DVD edition of episode 5, which provides a glimpse of the future for all of the major & new characters as they continue on in life and move into the 2023 Grand Prix.
+
+
+== Production staff ==
+
+
+== Reception ==
+The TV series won the Animage Anime Grand Prix in 1991.
+
+
+== Video games ==
+Fifteen video games were released for the series between 1992 and 2012. Cyber Spin (known in Japan as Shinseiki GPX: Cyber Formula) for the Super Famicom is one of the more notable releases.
+
+
+== External links ==
+(in Japanese) Official website - Japan, Sunrise
+(in Japanese) [1]- Cyber Formula Database
+
+
+== References ==

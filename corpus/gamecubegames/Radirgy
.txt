@@ -1,0 +1,28 @@
+Radirgy is a shoot 'em up video game developed by MileStone Inc. and released for the Sega NAOMI arcade platform in 2005. The story follows schoolgirl Shizuru Kamigusa in an age filled with radio waves which she is allergic to. She must save her father, who is developing a remedy for her sickness, from terrorists who have taken control of his company. The game features bullet hell gameplay elements and a distinct cel shaded graphical style.
+Radirgy was ported in 2006 to the Dreamcast, PlayStation 2, and GameCube for release in Japan—of which the latter two featured additional gameplay modes. O~3 Entertainment planned to localize the GameCube version in North America under the title Radio Allergy, but the release was canceled. The game was later localized for the Wii in a compilation of MileStone shooters, Ultimate Shooting Collection. Critics found the game challenging and unique, but overall an average experimental shooter. Radirgy has been followed by two titles, Radirgy Noa and Radirgy De Gojaru.
+
+
+== Gameplay ==
+
+Radirgy is a vertically scrolling shoot 'em up with a bright cel shaded graphical style. The game features an arcade mode with five stages, a score attack mode, scalable difficulty, and bonus modes depending on the platform. The story follows a schoolgirl named Shizuru Kamigusa, who is allergic to radio waves. Her father works for a company developing a remedy for the condition, but a terrorist group led by Ruki Michima takes over their building. Shizuru mans a flying mecha to save her father and the medicine from the terrorists. Dialog boxes appear on the playfield to progress the story, although this feature can be disabled.The game features bullet hell gameplay elements, providing the player with a small hit box and swarms of particles to evade. Most of the bullets come in patternless waves with the exception of bosses which feature more structured patterns. The player may choose from three different ships each with a different speed setting, and may also choose from three different weapons: spread gun, homing laser, and bubble cannon. Each weapon behaves differently, so the player must utilize different strategies with them. The player is also equipped with a sword and shield. The sword and main weapon can be used to destroy the enemies and some bullets, and can also deflect items. This deflection mechanic allows the player to "juggle" items and power-ups until they are desired. When not firing, a shield is automatically deployed which can deflect some bullets. A combo bar, which determines the score multiplier, can be increased by either using the shield to harvest energy from bullets or enemies, or using the ABSNET shield, a weapon which eliminates all minor enemies and bullets on the screen. In order to use the ABSNET shield, the player must fill a gauge by gathering blue items which drop from destroyed enemies.
+
+
+== Release ==
+After first releasing on the arcade Sega NAOMI platform, Radirgy was ported to the Dreamcast, and later the PlayStation 2 and GameCube. The latter two were known as Radirgy PreciouS and Radirgy GeneriC respectively, the names being a reference to the platforms themselves. The PS2 version featured a more difficult mode called "Okawari Mode" and the GameCube release had a special score attack mode titled "Manpuku Mode". These releases were all exclusive to Japan. Unlike Chaos Field before it, Radirgy was not developed with console ports in mind. The decision to create home console ports came late in development.In January 2007, O~3 Entertainment announced that it would be localizing Radirgy in February for North America exclusively for the GameCube under the new title of Radio Allergy. The company had previously localized MileStone's other shooter, Chaos Field. However, the release date was pushed back several times, and was eventually cancelled by June 2007 due to a lack of interest from retailers in stocking GameCube titles. MileStone began looking into options to include the game in a compilation for the Wii. Radio Allergy was finally localized for the Wii in the Ultimate Shooting Collection compilation along with Chaos Field and Karous. A sequel, Radirgy Noa, was released in 2009. Another title, Radirgy De Gojaru, was released for the Nintendo 3DS in 2014 in Japan.
+
+
+== Reception ==
+
+IGN found the Dreamcast version of Radirgy to be challenging, but overall an average shooter. In a hands-on preview, IGN enjoyed the GameCube version. They found the game to not carry the depth of Ikaruga, another GameCube shooter, but still believed the game was "solid" especially for the retail price of $20. Kurt Kalata of Hardcore Gaming 101 wrote that the visuals and scoring system keep Radirgy fresh, but the appeal wears off and the game turns out as another "experimental shooter." He criticized the soundtrack and the lack of a two-player option. Aaron Kaluszka of Nintendo World Report reviewed the GameCube release and found the game to be average overall, but still a welcome addition to the system's library. Praise was given for the cel shaded design, sound, controls, and replay value. However, criticism was directed towards the level design, cases of slowdown, the graphical style for impeding gameplay, and game design choices which do little to define the game apart from other shooters. In terms of style, they placed the game "somewhere between cute-em-ups of the 16-bit era and more traditional shooters."
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Radirgy at MobyGames
+Official website (Able Corporation) (in Japanese)
+Official website (MileStone Radirgy) (in Japanese)

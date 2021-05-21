@@ -1,0 +1,72 @@
+Castle Shikigami 2 (式神の城II, Shikigami no Shiro II) is a vertical scrolling shooter arcade game developed by Alfa System for the Sega NAOMI arcade system board. It was subsequently ported in Japan to the Nintendo GameCube, and then later to Dreamcast, PlayStation 2, Xbox and Windows PCs. The game was released in North America on the PlayStation 2 by XS Games as Castle Shikigami 2, and in Europe as Castle Shikigami 2: War of the Worlds. XS Games also published the first game in the series in North America and Europe, but under the name of Mobile Light Force 2.
+
+
+== Gameplay ==
+The game mechanisms are generally carried over from the original Shikigami No Shiro, with the addition of more playable characters. The game consists of five stages, each with two parts, with a boss at the end of each part. At the end of each stage, dialogue between the player character(s) and the bosses are shown in cut scenes; a unique sequence of dialogue is shown for every different character or combination of two characters.
+Each character has a primary weapon, used by tapping or holding one firing button; holding the button for more than a few seconds, however, will switch to the character's secondary "Shikigami" weapon. This tends to be more powerful, but limited in range or utility, and also slows character movement. Each character's weapons are different, sometimes dramatically, in terms of pattern and power; in addition, each Shikigami weapon is available in one of two modes, chosen at the start of each new game. Bombs are also available, and each character's bombs function differently as well.
+The leveling up of weapons from the original game is the only mechanic eliminated in the sequel. Five difficulty levels are available, for both the regular game and the "extreme mode", in which enemies release additional fire when destroyed.
+An alternate soundtrack, "S2MIX", consisting of rearranged music tracks from the first game, is also available; the original soundtrack has been completely replaced with brand new tracks in the PAL PS2 release, for undisclosed reasons.
+
+
+=== Tension Bonus System ===
+As with many shooters, the game places emphasis on obtaining high scores, which is facilitated by the Tension Bonus System (TBS). The TBS causes a player's score received to multiply, by factors of up to eight times, based on the player character's proximity to enemy bullets or enemies themselves; this is characteristic of the "grazing" mechanics found in games of the bullet hell genre. By staying close to hazardous objects, multipliers can be maintained for extended periods of time. In addition, destroyed enemies release coins that give extra points, which are also affected by the multiplier.
+The player's weapons also play a part in the TBS; when the multiplier is at maximum, the primary weapon increases in power and range for as long as this is maintained. In addition, coins released by enemies destroyed with the Shikigami weapon are automatically collected.
+
+
+== Plot ==
+The backstory has the events of the game set in December 2006, as the castle of the title appears in the sky above Tokyo. In the beginning of the story, a giant castle appeared from above the city of Tokyo sometime during 2006. At 40 km, the ship-shaped castle was known as Nejireta castle. The battle between mankind and the gods is about to begin.
+
+
+=== Characters ===
+The game includes eight playable characters, including all five from the original; however, the secret character from the original has been removed:
+
+Kohtarou Kuga (玖珂 光太郎)
+Sayo Yuhki (結城 小夜)
+Gennojo Hyuga (日向 玄乃丈)
+Fumiko O.V. (Odette Vanstein) (ふみこ・オゼット・ヴァンシュタイン)
+Kim Dae-jeong (金 大正)The two new characters are:
+
+Niigi G.B. (Gorgeous Blue) (ニーギ・ゴージャスブルー)
+Roger Sasuke (ロジャー・サスケ)The super deformed Fumiko also exists as a secret character.
+
+
+== Release ==
+Due to the disparity in publishers, as well as release times, each port of the game has different cover artwork, and some releases contained additional content as well. The limited edition of the Dreamcast port included a soundtrack CD and trading cards (and even a telephone card with direct orders from Sega), the limited edition of the PlayStation 2 port included a figurine of Fumiko, and the limited edition of the Nintendo GameCube port included a figurine of Niigi and Neko, her cat. The North American release used original cover artwork based on the Japanese character designs, while the European release used yet another original image depicting an aerial dogfight.Within the game, new play modes were also introduced with new releases. New features added following the arcade version include story recollect mode, which allows cut scenes to be replayed, and gallery mode, a game artwork viewer. The Xbox port introduced practice mode, and, in a more significant addition, provided additional downloadable artwork and an online scoreboard that could be available through Xbox Live; this was one of the first examples of Xbox Live content exclusive to Japan, rather than North America.The American release, Castle Shikigami 2, was known for its Engrish dialogue, produced as a result of overly literal translation combined with stilted and generally unemotional voice acting. The dialogue for every character and two-character combination was dubbed into English, though exclamations made by characters during gameplay were not translated. Dialogues are not available at all in the PS2 PAL release.
+
+
+== Other media ==
+A number of tie-in novels and manga volumes were produced, expanding the story of the game:
+
+Novels:
+玖珂家の秘密 (Secret of Kuga House) (2003, ISBN 4-8402-2532-X)
+陽の巻 (Book of Light) (2003, ISBN 4-7577-1610-9)
+陰の巻 (Book of Shade) (2003, ISBN 4-7577-1634-6)
+Paradise Typhoon (2004, ISBN 4-7577-1838-1)
+Manga anthologies
+Anthology 1 (2003, ISBN 4-7577-1612-5)
+Anthology 2 (2004, ISBN 4-7577-1796-2)Magazine ZKC serialization compilations:
+
+Book 1, volume 1 (2004, ISBN 4-06-349165-X)
+Book 1, volume 2 (2004, ISBN 4-06-349182-X)
+Book 1, volume 3 (2005, ISBN 4-06-349194-3)
+Book 2, volume 1 (2005, ISBN 4-06-349204-4)
+Book 2, volume 2 (2005, ISBN 4-06-349223-0)
+Book 2, volume 3 (2006, ISBN 4-06-349235-4)
+Book 2, volume 4 (2006, ISBN 4-06-349249-4)Other products released, typical of Japanese video game franchises, include an art book, a standalone soundtrack CD, a set of illustrated telephone cards, plastic models of two of the characters, and the "Appreciate DVD", a disc of gameplay footage similar in concept to the Ikaruga Appreciate DVD.
+
+
+== Sequels ==
+2005 saw the release of Shikigami No Shiro: Nanayozuki Gensoukyoku, a spin-off adventure game in the visual novel style with shooting elements, as well as the arcade release of the proper sequel, Castle of Shikigami III, which expands the roster to nine or ten playable characters while removing two old characters.
+
+
+== Reception ==
+
+
+== References ==
+
+
+== External links ==
+Official website by developer Alfa Systems (in Japanese)
+Official website for Japanese PlayStation 2 port by publisher Taito (in Japanese)
+Official website for PC port by publisher SourceNext (in Japanese)
+Castle Shikigami 2 at the Killer List of Videogames

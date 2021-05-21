@@ -1,0 +1,15 @@
+A Mahjong video game is a video game that is based on the classical Chinese game mahjong. However, many mahjong video games, especially among those released in Western territories, do not depict the actual game of mahjong but rather mahjong solitaire.
+Most commercial games released in this genre are created by Japanese developers for domestic release.  Game makers have created dozens of mahjong titles for arcades and home consoles, but none have ever been officially released outside Asia. Some operating systems have included a Mahjong game, such as Solaris, Windows (Mahjong Titans), OS/2, and AmigaOS.
+
+
+== Game types ==
+Japanese computer mahjong games typically challenge serious players, such as Athena's Pro Mahjong Kiwame series. For example, many Japanese video arcades feature games like Konami's Mahjong Fight Club that feature online play, allowing people across the country to play against one another.
+Many computer mahjong games play a variant of the Japanese game known as "taisen mahjong" or "battle mahjong." Here, a single player goes head-to-head against a cartoon character controlled by the software. The game is shortened for faster play, so that each player is only allowed eighteen discards. Scoring is counted as usual. The contest typically ends when one of the opponents' score reaches zero. A good example of this genre is the 1992 Sega arcade game Tokoro San no MahMahjan.
+Mahjong solitaire is a puzzle game based on the same tiles. The goal is to match open pairs of identical tiles and remove them from the board, exposing the tiles under them for play. The game is finished when all pairs of tiles have been removed from the board or when there are no exposed pairs remaining.
+
+
+== Notable examples ==
+The player also has the option to play Japanese mahjong (with English text) as one of the various mini-games in Sega's gangster games, Yakuza 2 (PS2) and Yakuza 4 (PS3). Your character plays against three computer-controlled opponents, at various skill levels, gambling with their own in-game money.
+
+
+== References ==

@@ -1,0 +1,41 @@
+Puyo Pop Fever (ぷよぷよフィーバー, Puyopuyo Fībā) is a puzzle video game developed by Sonic Team. It is the fifth main installment in the Puyo Puyo puzzle game series and the second Puyo Puyo game to be programmed by Sonic Team after Puyo Pop (which was released just after the series' original developer, Compile, went bankrupt). This was the start of the "reboot" series of the Puyo Puyo franchise, with a new plot discussing how Accord lost the flying cane. Sega, which acquired the series' rights from Compile in 1998, published all the Japanese releases of the game. The game was scarcely released internationally, and certain versions were released by other publishers in those areas. Only the GameCube and Nintendo DS versions were released in North America. Europe received both versions plus the PlayStation 2, Xbox, Game Boy Advance, and PlayStation Portable versions. The NAOMI port to Dreamcast, released exclusively for the Japanese arcade cabinets, was the last Dreamcast game developed by Sonic Team, as well as the last first-party title released on the platform. The Dreamcast version is the only console version to use sprites in place of 3D models.
+
+
+== Gameplay ==
+The basic game mechanics are mainly similar to those of Puyo Puyo: the player has a 6x12 board, and must decide where to place incoming groups of variously-colored blobs, or puyo. After placing each set of puyo, any groups of four or more of the same colored adjacent puyo will pop. Any above will fall down and can form more groups for a chain reaction.
+Each time groups of puyo pop, the player will score points and send "trash" (aka "garbage" and "nuisance") to their opponent. Garbage temporarily gets stored in a bar above the playfield, represented by symbols and warning the player of an incoming amount of garbage. These trash puyo are colorless and will only pop when puyo next to them do so, rather than in groups as normal. These will only fall if the player fails to make a chain, and trash falls in groups of 30 (one rock) at a time.  When a player's board fills up, either if they cannot make groups or if they are sent a large amount of trash (usually the latter), they lose and the other player will win.
+A new addition to the game mechanics is Fever mode. Fever mode occurs when a bar in the middle of the screen is filled up. To fill the bar, one must offset (or counterattack) the trash being sent to the field by the opponent. Every chain, which is a single popping of puyo, will fill one space in the fever meter until it is full, which is when fever activates. In fever mode, a pre-designed chain will fall onto an empty field. In a limited amount of time, one must find a trigger point in the puzzle, which will cause a large chain to go off and attack the opponent. Once a chain is made, another puzzle falls, bigger and more complicated than the previous one. This keeps occurring until time runs out, then it returns the player to their original field.
+The Nintendo DS version supports 2 to 8 players, as opposed to the others which only support 2 or 4. In this mode, one can play as any available character.
+There is also an endless mode, where one can practice fever mode, complete small tasks as they are given, or play the original game. However, the grid and all clear rules remain the same as they do in fever, so it's not exactly classic.
+
+
+== Plot ==
+Ms. Accord, a teacher at the Primp Magic School, has lost her Flying Cane, the equivalent of a magic wand, and claims to have a reward for the student who can find it. The player plays the role of either Amitie or Raffine, students at the school, as they venture across the Puyo Pop Fever world to find the cane, while meeting many wacky characters along the way and battling them. Raffine's course contains more difficult gameplay and alters the characters the player meets, as well as which character actually finds the wand. When playing as Raffine near to the end of the game, it is revealed that Accord never actually lost her flying cane. Raffine then plans on revealing her and Popoi's secret, but fails in her ending, as she is knocked unconscious by Ms. Accord, losing all memories of the flying cane incident. She regains consciousness near her school where Amitie and her friends congratulate her.
+
+
+== Release ==
+
+
+=== Soundtrack ===
+PuyoPuyo Fever 1&2 Sound Track ぷよぷよフィーバー1&2サウンドトラック (Puyo Puyo Fībā Saundotorakku) for both games Puyo Pop Fever and Puyo Puyo Fever 2 was released on July 26, 2007. The track has a total of 45 tracks.
+
+
+=== Mobile remake ===
+On February 1, 2009, Sega released a remake of Puyo Puyo Fever in Japan for iOS  and Android, titled Puyo Puyo Fever Touch (ぷよぷよフィーバー Touch, Puyo Puyo Fībā Touch).
+
+
+== Reception ==
+
+Edge ranked the game #64 on its list of "The 100 Best Games To Play Today", stating that "Behind sugary visuals lies a game that revels in bringing about the ultimate chain reaction, the play area riddled with hidden score opportunities until the entire screen collapses into implosions of multipliers."
+
+
+== Legacy ==
+In Sega Superstars, there is a game based on Puyo Pop Fever, though the gameplay differs from the original game. Players must position their bodies to get the Puyos into a pot of the same color. Bombs will also fall, and if they get into a pot, points are lost.
+In Sega Superstars Tennis, a minigame based on Puyo Pop Fever is featured. Players have to clear Puyos by hitting the ball at them. If the ball hits a Puyo touching another Puyo of the same color, all of them disappear and extra points are awarded. Occasionally, some Puyos become garbage Puyos that do not disappear when the ball hits them, but they can be cleared if one of the colored Puyos attached to them are hit. This minigame is played on the stage based on Nights into Dreams.
+
+
+== References ==
+
+
+== External links ==
+Official website (Nintendo DS)

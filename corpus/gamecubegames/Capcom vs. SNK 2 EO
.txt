@@ -1,0 +1,55 @@
+Capcom vs. SNK 2: Mark of the Millennium 2001, known in Japan as Capcom vs. SNK 2: Millionaire Fighting 2001 (カプコン バーサス エス・エヌ・ケイ 2 ミリオネア ファイティング 2001, Kapukon bāsasu Esu-enu-kei Tsū: Mirionea Faitingu Tsū Sausando Wan), is the sequel to the fighting game Capcom vs. SNK. It was originally released on NAOMI hardware in arcades. As in the original, players select a team of fighters from various Capcom and SNK games then fight other teams, winning each battle by defeating all the opponents from the other team.
+Aspects of the first game were tweaked, including the Ratio system. In contrast to the fixed system of the original, players can now freely select characters and assign each of them a number from one to four (or "Ratio") determining their relative strength, adding up to a maximum team ratio of four. Teams can now consist of a maximum of three characters, as opposed to four in the first game. Additional characters were added, including more characters from Capcom and SNK titles outside of the Street Fighter and King of Fighters series, for a total of 48. The Groove system from Millennium Fight 2000 has been augmented to include four new systems of play based on various Capcom and SNK fighting games. In addition, the number of buttons has been increased from the Neo Geo standard of four to the six button system first seen in Capcom's Street Fighter.
+The console versions of the game were first released in Japan for the Dreamcast and PlayStation 2 on September 13, 2001 (just a month after the initial arcade release). Players from both platforms could compete against each other online via KDDI's Multi-Matching service, making Capcom vs. SNK 2 the first game ever to support cross-platform play between two competing game consoles. The PS2 version would be released a bit later in other regions, but without online support. The GameCube and Xbox received an updated version titled Capcom vs. SNK 2 EO, with "EO" standing for "Easy Operation", referring to a game option intended for novices to the game. The PS2 version was later released on PlayStation Network in July 2013.
+
+
+== Plot & Characters ==
+
+
+=== Prologue ===
+A year has passed since the original tournament known as Millennium Fight 2000. This time, the political conflicts of the Garcia Financial Clique and the Masters Foundation have a rematch once again by releasing a million dollar fighting tournament called Mark of the Millennium 2001, all of the original fighters from both powers clash once again, but with more fighters both legends and newcomers.
+
+
+=== Epilogues ===
+The celebration is uninterrupted, as the camera zooms out of the stadium to a shot of Akuma or Rugal's foot.
+Akuma or Rugal interrupts the celebration, demanding a match against the winners on top of Osaka Castle. If the player wins, they comment on their strength before challenging their true rival (the other boss), as a large explosion occurs. The fates of everyone are left unknown.
+The celebration is interrupted by the fight between Akuma and Rugal. Depending on the player's Groove, one of two scenes play. In one, Akuma mortally wounds Rugal, only for the latter to infuse his Orochi force into Akuma, who is driven insane by the power and turns into Shin Akuma. In the other, Rugal kills Akuma and absorbs the Satsui no Hadou from his body (his special intro has him throwing away Akuma's corpse), transforming into God/Ultimate Rugal. The winning team goes on to fight the bosses in the Osaka Ruins. Defeating Shin Akuma has him being swept into the sky by the Orochi force while God/Ultimate Rugal's defeat results in Akuma and Rugal's spirits merge, turning into one being, before walking away. The following news coverage depicts Osaka being rebuilt, the critical reception to the tournament, and the (text-only) fates of the champions.
+
+
+=== Playable characters ===
+Bold denotes newcomer
+
+
+== Development & Release ==
+
+
+=== Design of sprites ===
+Because Capcom vs. SNK 2 features a roster composed of characters from numerous games and hardware eras, the appearances of several of Capcom's characters have been considered substandard in comparison to the newly drawn SNK characters. Instead of choosing to redraw its characters, Capcom took the approach of reusing old character sprites from previous games and inserting them in among the other characters. The result created a significant disparity, particularly in the case of characters like Morrigan Aensland, whose sprite from the Darkstalkers games appears retro and lacking in detail when compared to Capcom's newly drawn characters, such as Maki, Eagle, Ryu, Ken, and M. Bison. This has led to criticism of Capcom's art department. Just like the first game, the Dreamcast release of Capcom Vs. SNK 2 also links up to the Neo Geo Pocket Color and SNK vs. Capcom: Card Fighters Clash using the Neo Geo Pocket Color link cable. Doing so will enable the player to unlock all the secrets on the Dreamcast game.
+
+
+=== Changes in gameplay ===
+
+Capcom vs. SNK 2 combines characters and gameplay elements from various Capcom and SNK fighting games, mainly the Street Fighter and The King of Fighters series. Other elements, most noticeably different fighting styles, incorporated elements from other games as well, such as Street Fighter III, Garou: Mark of the Wolves, and the Samurai Shodown series.
+In contrast to the original Capcom vs. SNK, characters no longer have a specific "Ratio." Instead the player can select up to three characters in a team and give an amount or ratio (up to four) to each as desired. Strength are altered accordingly based on the number of players. For example, a team of three fighters will be weaker and have less individual health than a one-man team. Rounds are fought one against one, with the winner being the first to defeat his opponent's team. In console versions of the game, players in Arcade Mode can also choose a 3-on-3 game or a 1-on-1 game with the Ratio System removed.
+Unlike the first game, which was based on a King of Fighters-style two-strength, four-button system of punches and kicks, Capcom vs. SNK 2 is based on the three-strength, six-button system of punches and kicks native to the Street Fighter series, and the SNK characters have been tweaked to fit the six-button style. The overall system is derivative of Street Fighter Alpha.  However, a number of different fighting styles called 'Grooves', which mimic other Capcom and SNK games, are included in the engine. These dictate both the character's Super Gauge system, and special techniques, such as dashes, running, and guard cancels, called "Subsystems." There are six in total, each designated with a letter, along with custom grooves that can be programmed in home versions of the game. Each player designates prior to the match which groove his or her team will use.
+
+
+=== Capcom vs. SNK 2 EO ===
+Capcom vs. SNK 2 EO is the same game but with minor changes in gameplay and the inclusion of an EO ("Easy Operation") system that allows the player to perform specific attacks by simply moving the right analog stick in a certain direction. Like all other home versions of the game, CvS2: EO also contains four bonus characters: Evil Ryu, Orochi Iori, Shin Akuma (Shin Gouki in Japan), and Ultimate Rugal (God Rugal in Japan), powered-up versions of four regular characters.
+Before selecting a team, the game offers a selection of "Grooves", which change the way the game is played, as well as "AC-ism" or "GC-ism" Grooves; GC-ism simplifies the control scheme, originally designed for the GameCube gamepad. In the Xbox version it is called EO-ism. Capcom vs. SNK 2 EO also removed the Roll Cancel glitch that was in the original versions. In addition, the Xbox version of CvS2: EO also included online play for up to two players on Xbox Live as well as progressive-scan (480p) support, which was noticeably absent in the PlayStation 2 version.
+
+
+== Reception ==
+
+In Japan, Game Machine listed Capcom vs. SNK 2 on their September 15, 2001 issue as being the second most-successful arcade game of the year. It was a runner-up for GameSpot's annual "Best Fighting Game" award among console games, losing to Garou: Mark of the Wolves.The PlayStation 2 and Xbox versions of Capcom vs. SNK 2 received "favorable" reviews, while the GameCube version received "average" reviews, according to the review aggregation website Metacritic. While the game is virtually identical across all four consoles, the GameCube version received lower review scores due to the native control scheme of the GameCube controller, not designed for traditional fighting games.  AllGame gave the PS2 version a score of three stars out of five, saying, "Those who haven't played a fighting game in a long time might also be impressed, but the weak visuals will be a major turnoff for the average gamer."  In Japan, Famitsu gave it a score of 35 out of 40 for the Dreamcast and PS2 versions, and 31 out of 40 for the GameCube version. GameSpot named Capcom vs. SNK 2 EO the best Xbox game of February 2003. Its GameCube version was a runner-up for GameSpot's annual "Most Disappointing Game on GameCube" award.In 2010, Marissa Meli of UGO.com listed Capcom vs. SNK 2 among the top 25 fighting games of all time. In 2011, Peter Rubin of Complex ranked it as the 11th best fighting game of all time. In 2012, Lucas Sullivan of GamesRadar included it among the little-known classic fighting games that deserve HD remakes, adding that "every fighting game fan needs to play CvS2 at least once". Rich Knight and Gus Turner of Complex ranked it as the fourth best 2D fighting game of all time in 2013.
+
+
+== References ==
+
+
+== External links ==
+Official website for Capcom vs. SNK 2: Millionaire Fighting 2001 (Japanese)
+Official website for Capcom vs. SNK 2 EO: Millionaire Fighting 2001 (Japanese)
+Official website for Capcom vs. SNK 2 EO: Millionaire Fighting 2001 (Xbox) (Japanese)
+Capcom vs. SNK 2 at the Killer List of Videogames
+Capcom vs. SNK 2 at MobyGames

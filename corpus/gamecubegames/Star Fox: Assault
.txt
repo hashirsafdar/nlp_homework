@@ -1,0 +1,57 @@
+Star Fox: Assault is a 3D scrolling shooter and third-person shooter video game developed by Namco and published by Nintendo for the GameCube. It is the fourth released title in the Star Fox series. The game was promoted at Blockbuster and Movie Gallery on February 1, 2005, after which it was released on February 14, 2005 in North America, on February 24, 2005 in Japan, on April 29, 2005 in Europe and on June 16, 2005 in Australia.
+The game is set after the events of Star Fox Adventures, and follows Fox McCloud and his team attempting to save the Lylat System from the enemy insectoid beings called Aparoids. It contains orchestral arrangements of music from Star Fox 64 as well as original tracks created specifically for the game.
+When Assault was initially announced by Nintendo and Namco, it was also rumored that an arcade game was under development, but it was never heard in public.
+
+
+== Gameplay ==
+
+The gameplay of Star Fox: Assault is divided into three distinctive types. The player can either fly an Arwing spacecraft, drive a Landmaster tank or perform certain tasks on foot. All three play types are available for use in the game's multiplayer mode, though the available gameplay types are restricted based on the chosen map.
+Arwing missions are similar to those of the first two games in the series. The player flies in space or close to the ground and shoots down enemies. Some levels are on rails, while others allow full freedom of movement in a relatively small area. As in previous games, main character Fox's wing mates occasionally call for help when chased by enemies, requiring the player to save them. Additionally, in some levels, the player has the ability to hop in and out of the Arwing at will.
+While in the Landmaster, the player has complete freedom to move about the level. They are free to shoot or run over enemies and assist their wing mates when necessary. Playing on foot essentially turns the game into a 3D third-person run 'n' gun shooter; the player starts armed with a standard blaster gun and can acquire a variety of other weapons, including but not limited to a machine gun and a homing launcher. In two shooting gallery levels, the player rides on the wing of an Arwing or a Wolfen fighter, shooting enemies on the ground and in the air with a plasma cannon.
+As an added bonus, by collecting all silver medals throughout the game, the player can unlock the NES port of the scrolling shooter arcade game Xevious as a bonus minigame. The Japanese version of Star Fox: Assault also features the Famicom games Battle City and Star Luster as unlockables.
+
+
+=== Multiplayer ===
+The game supports multiplayer with support for up to four players simultaneously. This mode starts off very limited, with only a few playable characters, weapons, items, and maps; but many more can be unlocked by either playing a certain number of multiplayer games or achieving certain accomplishments in-game. Players are able to fight on foot or in a vehicle (a Landmaster, Arwing, or Wolfen), though some stages prohibit certain modes of travel. Playable characters include the entire Star Fox team (including Peppy and Wolf).
+Multiplayer mode offers several stages for playing, including stages from the single-player mode, "Simple Maps" (which look like they're made of building blocks), and other new maps. There are also several modes for play available, which can force a certain weapon (sniper, rocket launcher, etc.) or change the style of play (capture the crown, etc.). Also, there are a few customizable options, such as turning radar on/off, turning special weapons on/off, and turning Demon Launchers on/off.
+It has a number of items and weapons, most of which are taken directly from the single-player mode. Special unlockable weapons included the Demon Sniper and Demon Launcher which have the ability to kill in one hit. In addition, there are a couple special items such as jet packs (which give a player on foot a hovering ability similar to the Landmaster's hover), and the "Stealth Suit", which temporarily makes the player invisible.
+
+
+=== Weapons and items ===
+The game features a number of weapons, such as the blaster, machine gun, Homing Launcher, sniper rifle and the hand grenade. Also used is the Plasma Cannon, a rapid-fire gun with unlimited ammunition. This, however, is only used at two specific points. The game has a number of special items, including personal barriers which deflect enemy attacks. The usual rings seen in other Star Fox games that restore a vehicle's shield are also present.
+
+
+== Plot ==
+
+
+=== Setting and characters ===
+
+The game stars the members of Star Fox, a team of spacefaring mercenaries: Fox McCloud, Falco Lombardi, Slippy Toad and their newest member Krystal participate in combat missions, while Peppy Hare and ROB 64 provide tactical support from their mothership, the Great Fox. Star Fox frequently clash with rival mercenary group Star Wolf, made up of Wolf O'Donnell, Leon Powalski and new recruit Panther Caroso; former members Pigma Dengar and Andrew Oikonny have since been kicked out of the team. Other supporting characters include Cornerian commanding officer General Pepper and Slippy's scientist father, Beltino Toad.
+The Star Fox team's primary opponents are the Aparoids, a race of cybernetic insectoid creatures. They are capable of controlling machines and life forms through an infection process known as "Aparoidedation". The Aparoids operate as a hive mind under the control of the Aparoid Queen, who believes that all things exist for the infestation and seeks to assimilate everything in the universe under her control.
+Assault takes place one year after the events of Star Fox Adventures. The game is once again set in the Lylat System and sees the Star Fox team traveling to many different locations, such as their native planet Corneria, Star Wolf's base the Sargasso Hideout, the prehistoric planet Sauria, and the Aparoid Homeworld. Other planets are featured exclusively in the game's multiplayer mode.
+
+
+=== Story ===
+After the defeat of his uncle Andross, Oikonny assumes leadership of the planet Venom's remaining troops and begins a rebellion. General Pepper orders an attack on Oikonny's forces, hiring the Star Fox team to assist the Cornerian Army. During the battle, Oikonny is destroyed by an insectoid creature, which attacks the Star Fox team. Fox destroys the creature and recovers its damaged Core Memory unit, turning it over to Beltino for research. Beltino explains the creature is an Aparoid, one of which ravaged the Cornerian fleet seventeen years prior. Fearing an invasion, Beltino asks Star Fox to recover an undamaged Core Memory so that they might find a way to stop the Aparoids.
+Lured by a false distress signal, the Star Fox team are deceived by Pigma, who steals another Core Memory to sell on the black market and escapes. Learning his location during a battle with Star Wolf, the team track down Pigma, who has become infected by the Aparoids. The team destroy him and retrieve the Core Memory, sending it back to Beltino. While Star Fox prevents an Aparoid assault on Sauria, Corneria is left nearly defenseless, with the Aparoids breaching the planet and infecting General Pepper. The team returns to contain the threat, aided by the unexpected arrival of Star Wolf, who seek to eliminate their common enemy.
+Beltino uses the Core Memory to locate the Aparoid Homeworld, and discovers their vulnerability to apoptosis. He creates a program which, if fired into the Aparoid Queen, will force all Aparoids to self-destruct. Star Fox and Star Wolf travel to the Aparoid Homeworld, only to discover the planet's core is blocked by a regenerative shield. With the Great Fox becoming infected, Peppy and ROB crash it into the shield to create an opening for the two teams to enter. While Star Wolf takes care of the remaining Aparoid forces, Fox and his allies reach the planet's core. The Aparoid Queen attempts to use the voices of Peppy, Pepper, Pigma and James McCloud to deceive them into joining her, but the team is undeterred. After a long battle, Fox launches the self-destruct program into the Queen, but she resists it and attempts to escape to create an antibody. The team deals the final blow to the Queen, killing her and causing the destruction of the planet and all the Aparoids. Successfully evacuating, the Star Fox team are reunited with Peppy and ROB, who survived the crash via an escape pod and reveal the other infectees have been cured. Satisfied, Fox thanks his friends and they head for home.
+
+
+== Development ==
+The game was announced on May 8, 2002. It had a tentative release date of April 2003 for Japan, and would be developed by the same employees who worked on Ace Combat 2 at Namco. New information about the game didn't show up until a short video montage at E3 2003 in Los Angeles, which showcased the game's first-person perspective. According to Electronic Gaming Monthly, the video was booed by viewers, and EGM itself said the video was "remarkably unimpressive".During development, the game had the working title: Star Fox Armada, but eventually came to be known as Star Fox: Assault. In 2003, the game was intended to be multiplayer-oriented, and the ground missions of the game had a control scheme similar to the on-foot multiplayer mode in Star Fox 64.At E3 2004, EGM, the same magazine that wrote poorly about it a year before, wrote a follow-up that said the game looked "much better than...a year ago". Assault was scheduled for a November 2004 release, but was delayed to the beginning of 2005.The game uses middleware provided by the Japanese company CRI Middleware as a game engine. Yoshie Arakawa and Yoshinori Kanemoto provided Assault with a musical score and sound effects with the music performed by the Tokyo New City Orchestra. Most of the score pieces use themes from Star Fox 64, composed by Koji Kondo and Hajime Wakai.
+
+
+== Reception ==
+
+Star Fox: Assault was met with mixed to positive reception, and currently has an average score of 71% on GameRankings and 67/100 on Metacritic. However some complaints were aimed at the control scheme during on-foot portions; IGN worded the complaint as "ground missions suffering from sloppy control". GameSpot noted that the multiplayer portion of the game has little lasting value, an annoyance that IGN felt as well. IGN went on to say the design was too simplistic. However, IGN noted that being able to switch between the Arwing and Landmaster at will was a "welcome addition". In Electronic Gaming Monthly, two of the reviewers gave it an 8 out of 10. Play Magazine gave the game 8 out of 10. Thunderbolt gave it 9 out of 10. Kevin Gifford said that "the game is aimed less at the Mario club and more toward the hardcore crowd". EGM also noted that Assault had an epic feel, helped by a great soundtrack.The game became enough of a commercial success for it to be included in Nintendo's Player's Choice line, which also includes Star Fox 64 and Star Fox Adventures.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+Official website

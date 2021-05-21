@@ -1,0 +1,51 @@
+Billy Hatcher and the Giant Egg is a platform game developed by Sonic Team and published by Sega for the GameCube in 2003. Ports were released in Europe in 2006 for Microsoft Windows and Mac OS X.
+
+
+== Plot ==
+The story begins with a peaceful fantasy world by the name of "Morning Land", where the Chicken inhabitants live in peace and harmony. But all that is shattered as Dark Raven and his army of Crows assault Morning Land, catching the inhabitants by surprise and shrouding Morning Land in a blanket of unnatural, eternal night.
+Meanwhile, being late to meet with his friends due to oversleeping, the slightly mischievous Billy Hatcher races out of his house to go meet them. Upon arrival, Bantam tells Billy he is late, showing him a pocket watch in the shape of an egg. And, being some sort of tradition among the four friends, Bantam Scrambled, Chick Poacher, and Rolly Roll prepare to dish out a consequence on Billy, but they're stopped by the weak chirping of a chick. Two Crows that are looming nearby dive at the chick, as if they're finishing it off, but Billy intervenes, saving the baby chicken by fending the Crows off with a stick. The chick suddenly begins to glow, transporting Billy and his friends to Morning Land, with Billy ending up in Forest Village.
+Billy is informed by Menie-Funie that the Crows are trying to take over Morning Land and will soon take over the human world. He's informed that if he doesn't save Morning Land, Dark Raven will bring eternal night, darkness will overcome the hearts of everyone, and the two worlds will be ruled by evil. Billy then goes and receives the Legendary Chicken Suit to begin on a journey to free the six Chicken Elders, which have been imprisoned in golden eggs by the Crows. Uri-Uri, the Chicken Elder of Pirates Island, reveals that Dark Raven is reborn every 100 years to try and bring eternal night. Once he has freed the Elders, defeated the six Crow Bosses, and opened the Rainbow Gate, Billy travels to the Giant Palace, where Dark Raven is trying to hatch the Giant Egg to receive ultimate power.
+Billy battles Dark Raven, and once he defeats him, the Giant Egg hatches and grants Raven's wishes, shaping him into a crow-shaped shadow demon dubbed Ultimate Raven. A second battle then ensues. Ultimate Raven attacks Billy, destroying the Chicken Suit. Afterwards, Billy must avoid his attacks until Menie-Funie speaks to him, telling him that he must not give up. Then the Courage Emblems he has collected form into the new and enhanced Sun Suit, imbued with the power of courage. Billy must then use this power to turn Ultimate Raven's attacks against him.
+Billy finally defeats Ultimate Raven as his heart explodes, completely ending his existence and return. The power from the Giant Egg restores true morning to the land below. Once he and his friends return to where they entered Morning Land, they return the Chicken Suits and return to their world. It seems that when they're leaving, Billy is saddened that he has to leave Morning Land. The four friends wave goodbye and they are transported back. Upon their return to the human world, Billy is a short distance away from his friends. They get his attention by laughing at him and he runs over to them joining the laughter, thus ending the game with a chicken feather slowly falling from the sky.
+
+
+== Gameplay ==
+Billy Hatcher has a unique style of gameplay revolving around rolling large eggs. The player controls the hero, Billy, who cannot do much by himself aside from moving and jumping. However, he becomes a powerhouse once he finds an egg. While rolling an egg, Billy moves faster and is more agile.  He can also dash, throw and return the egg along the ground, slam the egg down from the air, and Billy can travel on rails and fly through rings.
+
+
+=== Eggs ===
+The color-coded eggs themselves are another gameplay element. As Billy runs over fruit while holding an egg, the egg gains maturity and gets larger. When the egg's maturity gauge completely fills, the egg flashes and is ready to hatch. Then Billy can hatch the eggs, which can contain helper animals, character power-ups, and extra lives. With variables such as egg size, helper animals, and personal power-ups, Billy Hatcher can be played in many ways. Different animals can come out of the same eggs, and some creatures are vital to progressing through certain challenges.
+Players should be wary of their handling of the eggs, as they take damage when attacked by enemies or impact certain obstacles. The egg gauge in the lower right-hand corner of the screen begins to crack, as does the egg Billy wields. When the egg takes enough damage, it is destroyed and no bonus comes from it. Eggs can also be 'lost', i.e. put into positions or situations that the player cannot retrieve them from. In such cases, the egg will disappear from its position after several seconds of inactivity and will 'respawn' in its nest of origin, but will lose any maturity the player earned for it. Some characters from other games appear in certain eggs, such as Sonic the Hedgehog or NiGHTS. These specific eggs are marked with the Sonic Team logo on them.
+Different eggs within the game prefer certain fruits, and gathering these fruits will make the egg's maturity gauge grow faster. The fruit of the game is divided into sets of big and small, with the bigger fruits generally being more potent than the smaller ones. Some eggs are easier to hatch than others, and require less fruit than others. Certain item eggs hatch the fastest, while the GBA Minigame Eggs take the most fruit.
+
+
+=== Levels ===
+Morning Land is divided into seven stages, the first one being Forest Village. Usually after the second mission, the player is able to access the next stage. Each stage is divided into a series of 'Missions' that Billy can play through to collect 'Emblems of Courage'. The goal of each Mission is to fulfill the conditions required and collect the Emblem as a reward. The player is graded on their skill in completing the mission and given a rank letter, with an S Rank being the highest. There are eight Missions per stage, and Billy can only play through the first five Missions. Upon rescuing his friends, Rolly, Chick and Bantam would each unlock their respective Missions in the stages and become playable for those Missions only.
+
+
+=== Game Boy Advance connectivity ===
+Billy Hatcher is one of a handful of GameCube games that supports linking between the GameCube and Game Boy Advance handheld system. Using the GameCube – Game Boy Advance link cable, players can load games such as Puyo Pop, ChuChu Rocket!, and Nights: Time Attack on their Game Boy Advance systems after certain objectives are completed within the game, but they must link it with a cartridge for more extended content.
+
+
+== Development ==
+Producer Yuji Naka stated in an interview with IGN that eggs were chosen as the focus of the game to give the player joy from caring for and hatching eggs, and a feeling of anticipation "because you don't know what's going to come out of eggs". Animals were incorporated into the game to convey a mood of adventure, in contrast to the digital pet-based Chao creatures highlighted in the previous project, Sonic Adventure 2. The GameCube was chosen for development over the competing PlayStation 2 and Xbox because of its wide audience that Naka felt would appreciate such a family-friendly game. The game uses an engine that Naka called "an evolution of the Sonic Adventure 2 engine." The game was exhibited at Electronic Entertainment Expo (E3) 2003.
+
+
+=== Windows version ===
+The Microsoft Windows port that was released exclusively in Europe is identical in style to the GameCube version, even to the point where the GameCube button icons are all preserved and are used to represent USB controller buttons or mapped keys. The Windows version has small differences in the gameplay, such as a slightly altered camera system, the lack of a dead zone while aiming a cannon and a certain enemy requiring two hits to defeat, as opposed to one in the original GameCube version.
+
+
+== Reception ==
+
+Billy Hatcher and the Giant Egg received mixed to positive reviews according to video game review aggregator Metacritic.  In Japan, Famitsu gave it a score of all four eights for a total of 32 out of 40.Critics praised the visuals and music, gameplay style, presentation and multiplayer mode, while citing issues with the physics, camera, and a very simple plot. It was nominated in the 1st British Academy Game Awards for Best GameCube Game. The game was a commercial bomb, only selling around 250,000 copies worldwide.  Due to the game's poor sales, Sega was reluctant to consider a sequel. In spite of this, executive producer Zachary Brown stated that Billy would appear in various other Sega titles, as he did including Sega Superstars, Sonic Riders: Zero Gravity, and Sonic & Sega All-Stars Racing. 
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Official website
+Billy Hatcher and the Giant Egg at MobyGames

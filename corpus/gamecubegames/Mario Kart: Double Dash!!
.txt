@@ -1,0 +1,74 @@
+Mario Kart: Double Dash (stylized as Mario Kart: Double Dash!!) is a 2003 kart racing video game developed by Nintendo Entertainment Analysis & Development and published by Nintendo for the GameCube (GCN). The game is the fourth installment in the Mario Kart series and the third for home consoles after Mario Kart 64. It was preceded by Mario Kart: Super Circuit for the Game Boy Advance in 2001 and was followed by the handheld game Mario Kart DS, which was released for the Nintendo DS in 2005.
+Similar to the previous titles, Double Dash challenges Mario series player characters to race against each other on Mario-themed tracks. The game introduced a number of new gameplay features, such as supporting co-op gameplay with two riders per kart. One player drives the kart, and the other uses items. It is the first game in the series to use 3D polygon graphics for the racers, as opposed to sprites. Players can switch at any time. Double Dash is the only game in the Mario Kart series to allow cooperative gameplay so far. Double Dash supports LAN play using the Nintendo GameCube Broadband Adapter, allowing up to 16 players to compete simultaneously. There are 20 characters to select from in total, each of which with a special item, and with eleven characters being new to the series.
+Double Dash received positive reviews from critics; it attained an aggregated score of 87 out of 100 on Metacritic. Reviewers praised the graphics, new gameplay features, character and item rosters, arcade aesthetic and track design, but elements of the voice acting were poorly received. It was commercially successful, with more than 3.8 million copies sold in the United States, and more than 802,000 copies sold in Japan. It is the second best-selling GameCube game of all-time, selling around 7 million copies worldwide, behind Super Smash Bros. Melee.
+
+
+== Gameplay ==
+
+Double Dash is a kart racing video game in which the player races in a kart against other teams in different courses.
+The game screen indicates the current standings in a race, the current speed of the player's kart (as both numbers and coloured bars) and incoming weapons.
+Like in the previous installments, players can pick up item boxes to receive a randomly selected item and use it to impede the opposition and gain the advantage. Some items, such as shells and bananas, allow the player to hit others to slow them down, while other items, such as the star power-up, render them temporarily invincible to attacks.
+This is the only game in the series in which instead of one character per kart, there are two: one to drive, and one to use items; and is also the first in the series where players drop their items when hit by a weapon.
+The powerslide technique, an action that allows the player to drift around turns, has been improved; players can tilt the control stick while drifting to make sparks appear around their kart. If tilted enough, the sparks turn blue, and the player gains a speed boost known as a "mini-turbo".The rocket start, an action that allows the player to gain a speed boost when a race begins is also improved as the Double Dash, which can only be done as a team.
+
+
+=== Game modes ===
+There are four game modes in Double Dash: Grand Prix, Time Trial, Versus, and Battle. Most of the modes can be played cooperatively, while some can only be played by themselves in single-player races.
+
+
+==== Grand prix ====
+The Grand Prix mode has the player race against 7 (or 6) teams, which are controlled by the computer, in a series of predetermined courses.
+The player can choose to race using 3 different engine size classes: 50cc, 100cc, and 150cc. A fourth unlockable class, Mirror Mode, allows the player to race through a mirrored version of the tracks using the 150cc engine size.Since all karts go faster when using higher engine sizes, the 4 classes serve as difficulty levels. There are 16 tracks, divided into 4 cups: Mushroom, Flower, Star and Special. A 5th cup has the player race in every track called the All-Cup Tour. The tour always starts with Luigi Circuit and ends with Rainbow Road, but the remaining tracks show up in random order.
+Every race is three laps long except for Baby Park and Wario Colosseum, which have 7 and 2, respectively.
+After all the human players cross the finish line, the positions of the computer-controlled teams are immediately locked in and they are given points based on those eight positions, ranging from 0 to 10. No matter which position they finished, everyone will move on to the next race because of these new rules.
+At the end of the cup, there will be an award ceremony for the 3 teams, where they will get a trophy ranging from bronze to gold.
+
+
+==== Time trial ====
+In the Time Trial single-player mode, the player has to finish any of the 16 courses in the fastest time possible, with the best time being saved as a ghost, a carbon copy of the player's performance that they can race against in later runs. Each character will receive a mushroom, which can be used at any time during the run. (1P only)
+
+Versus – In this mode, players can choose any course and race against up to 3 (or 15 with LAN) human opponents with customized rules such as changing the item frequency or the number of laps in each race. (2P-16P only)
+
+
+==== Battle ====
+In battle mode, the player fights against up to 3 (or up to 15 with LAN) human-controlled opponents using items scattered throughout a battle arena.
+There is the traditional balloon-popping battle game, in which the player must use items to pop an opponent's three balloons while defending their own. Players can also steal items from one another by speeding towards them with a mushroom or star.
+In Co-op battles, the player in the back of the kart can perform a slide-attack on another driver, which can also steal balloons. Additionally, two new games have been implemented; the first is Shine Thief, a game where a team captures a Shine Sprite and maintaining possession of it for a certain amount of time, usually starting out with 55 to 60 seconds. Each time the Shine Sprite is lost, the counter will somewhat reset the time. For instance, if a player is able to keep possession of the Shine Sprite for only 30 seconds, the counter would reset to 40 instead of 60.
+The other mode involves throwing Bob-ombs at each other to collect points in Bob-omb Blast. With two players, 3 points are needed to win, but when playing with 3 or 4, 4 points are required to win. If two or more players throw a bomb at each other in unison, no points will be awarded to anybody. In a way, it's similar to a tie. As in previous installments, the battle arenas are enclosed (the exception being Tilt-A-Kart), with a varying layout and a replenishing arsenal of items. (2P-16P only)
+Mario Kart Double Dash‼ is the last game in the series without the ability to battle computer-controlled opponents.
+
+
+==== LAN play ====
+LAN play – Double Dash!! also features LAN play using the Nintendo GameCube Broadband Adapter. Up to eight GameCube consoles can be connected, allowing for 16-player multiplayer races, with two players controlling each kart.
+
+
+=== Characters ===
+Players can choose from a cast of 20 playable drivers divided in 10 pairs. All of the characters have their own special items which are unique to them: Mario and Luigi with Fireballs, Donkey Kong and Diddy Kong with Giant Bananas, Bowser and Bowser Jr. with Bowser Shells, Yoshi and Birdo with Eggs, Peach and Daisy with Hearts, Wario and Waluigi with Bob-ombs, a Koopa Troopa (who previously appeared in Super Mario Kart) and a Koopa Paratroopa with Triple Shells, Toad and Toadette with Golden Mushrooms, as well as Baby Mario and Baby Luigi with Chain Chomps. Petey Piranha and King Boo have the unique ability to use any of the other characters' special items excluding Luigi's Green Fireball and Birdo's Pink Egg. There are 21 karts in all and the character's weight class (light, middle, or heavy) determines the kart in which they can ride as well as their speed, acceleration, and weight attributes.
+In addition, other characters have supporting roles in this game as well. Lakitu reprises his role as the referee, helping racers in various situations such as announcing laps, giving the signal to drive with its traffic lights hanging on a fishing pole, and taking characters back on track in case they fall off course. Other supporting characters appearing in this game include Shy Guys, Goombas, Nokis, Toadsworth, Piantas, Chain Chomps, Piranha Plants, and more. It should also be noted that this is the very first time that Toadette has appeared in the Mario franchise.
+
+
+== Development ==
+
+Double Dash!! was first shown at E3 2001 as a seven-second video clip. The clip featured Mario and Luigi driving their karts on a bump mapped 3D surface with no background. At the time, it was early in development, and the working title of the game was simply Mario Kart. In April 2003, Nintendo released the first pictures and details of the game, as well as revealing the title to be Mario Kart: Double Dash!!. At E3 2003, a playable demo of the game was available. New features, such as having two characters drive one kart, had been implemented. An updated demo with some new additions was shown at the Games Convention in August 2003. In September, Nintendo held a Gamers' Summit for the press, in which a nearly complete and more sped up version of Double Dash!! was displayed. The Gamers' Summit also announced the North American release date to be November 17, 2003.The development team struggled in devising gameplay features that would be enjoyed by the fans of the series. One of the hardest tasks chief director Kiyoshi Mizuki was assigned to do was to attract people who had no prior experience with the series; he decided to make the gameplay as simple as possible. Producer Shigeru Miyamoto presented the staff with a variety of opinions which they in turn would have to incorporate into the game the best way possible. Miyamoto let the team decide which graphics they wanted to use without restrictions.Connectivity to the Game Boy Advance was discussed as an opportunity among the developers, but they eventually agreed that Double Dash!! was not suited to these connectivity ideas and decided to exclude it. It was desirable to narrow down the gap between the ability of veteran and novice players. Therefore, gameplay features like the ability to escape the banana were removed; the staff wanted both veteran and novice players to enjoy themselves.A special edition of the game was also released, which included a bonus disc containing:
+Playable demos for F-Zero GX, Mario Party 5, Sonic Heroes, Star Wars Rogue Squadron III: Rebel Strike and Teenage Mutant Ninja Turtles
+Video trailers for Final Fantasy Crystal Chronicles, 1080° Avalanche, Pokémon Colosseum, Kirby (Kirby: Right Back at Ya! TV series and Kirby Air Ride game), Harry Potter: Quidditch World Cup, SpongeBob SquarePants: Battle for Bikini Bottom and NBA Live 2004; total running time is 8 minutes, 35 seconds
+Bonus content for Fire Emblem on the Game Boy Advance, which requires a GameCube – Game Boy Advance link cableThe game's soundtrack was composed by Super Mario Sunshine composer Shinobu Tanaka and Mario Kart 64 composer Kenta Nagata.
+
+
+== Reception ==
+
+Double Dash!! received positive reviews from critics and fans. The game received the "Multiplayer Game" award from ITV's Game Stars in 2004.Nintendo Power gave the game a perfect score, and said the graphics were of "3-D perfection" and the controls and game mechanics "rival those of any [GameCube] racing game". Double Dash!! also received a perfect score from GamePro, who commented that the gameplay remains "fast and furious". The feature of having two riders per kart was praised by Justin Leeper and Andy McNamara of Game Informer; McNamara stated: "Giving the player control of two different characters is pretty cool in single-player, but add a friend on the back of your kart in multiplayer and it opens the game up like never before." GameSpy called Double Dash!! a "great-looking, great-playing game that most gamers will instantly warm to." Eurogamer thought the game was one of the "finest pieces of electronic entertainment ever developed." GameZone's Louis Bedigian felt that none of the racing games he had played for the GameCube were as "spectacular" as Double Dash!!. GMR's Andrew Pfister said, "Mario Kart: Double Dash is the most fun you'll have with a game this year. And probably next year. And maybe even the year after that". Brett Elston of GamesRadar praised the game's "dual-riders idea and untouchable multiplayer". Electronic Gaming Monthly said that the game's "pure, exhilarating glee will envelop your soul".Double Dash!! has also received criticism from the media. Considering the 7-year gap since Mario Kart 64, GameSpot's Ryan Davis stated that he was "a little disappointed with the limited scope of the game". He also said that the repetition of the voice acting was "unrelenting". IGN was also critical towards Double Dash!! for not progressing beyond its predecessor, calling the game a "mediocre effort". The UK-based publication Edge accused the game of "not being a racing game anymore." Game Revolution criticized the game's single-player mode for lacking substance and the track design for being "bland".
+
+
+=== Sales ===
+In its first seven weeks of sales, Double Dash sold 1 million units, making it the fastest selling GameCube game up to that point. By July 2006, the game had sold 2.2 million copies and earned $105 million in the United States. Next Generation ranked it as the 12th highest-selling game launched for the PlayStation 2, Xbox or GameCube between January 2000 and July 2006 in that country. The game ultimately sold 3.8 million units in the United States, and over 802,000 units in Japan. It received a "Gold" sales award from the Entertainment and Leisure Software Publishers Association (ELSPA), indicating sales of at least 200,000 copies in the United Kingdom. According to the NPD Group, Double Dash!! was the best-selling game of November 2003. It is also the third best-selling GameCube game in Australia. Joystiq reported in February 2009 that the game had sold nearly seven million copies worldwide. The game placed 63rd in Official Nintendo Magazine's 100 greatest Nintendo games of all time.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Official Japanese website

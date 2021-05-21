@@ -1,0 +1,85 @@
+Tom Clancy's Rainbow Six 3: Raven Shield is a 2003 video game developed and published by Ubisoft. Released on March 18, 2003, the Rainbow Six video game series is based on Tom Clancy's novel of the same name.
+Based on the Unreal Engine 2.0, Raven Shield is a tactical shooter with realistic properties. Raven Shield moved toward mainstream first-person shooters like Counter-Strike, adapting various features absent in previous versions. These included the ability to see one's weapon while in the first-person view, many new weapons and upgrades (including larger magazines and sights), and a redesigned multiplayer.
+A console version, entitled Rainbow Six 3, was developed for the Xbox, PlayStation 2, and Nintendo GameCube. This iteration of the game features the same basic engine, models, textures, and artwork, but with significantly different game mechanics, gameplay, and storyline. A port was also released on Mac OS X on December 19, 2003. Due to the console version's success on the Xbox and the popularity of its subscription-based online multiplayer service, Xbox Live, an Xbox-exclusive semi-sequel was released in 2004 titled Rainbow Six 3: Black Arrow. The next full game in the Rainbow Six series, Rainbow Six: Lockdown, was released in 2005.
+
+
+== Plot ==
+In 1945, two high-ranking members of the Nazi-sponsored Ustaše regime in the puppet Independent State of Croatia manage to escape the country with vast amounts of Croatian Holocaust-era loot, just before Allied troops move into Zagreb and Belgrade with the help of Partisan troops. Croatia ceases to exist as an independent state, and a new Yugoslavia is created by the Partisans. The two former Croatian officials are nowhere to be found.
+Sixty years later, in 2005, elite multinational counter-terrorism unit Rainbow finds itself investigating a series of attacks by neo-fascist terrorists against South American oil interests and European financial institutions. The squadron is enlisted to ascertain their location and find out who is ultimately behind these incidents.
+Rainbow eventually traces the source of the attacks to Argentina, where Croatian-born billionaire businessman Nikola Gospić and far-right Argentine Presidential candidate Alvaro Gutierrez are implicated. Rainbow learns that Gospić is an escaped Ustaše official, one of the two men shown escaping with Holocaust loot in the game's opening cutscene. Dying of liver cancer, Gospić plans to leave the world one last legacy of hatred from World War II by using his vast wealth to resurrect global fascism. To this end, he has procured a large stockpile of chemical weapons, including VX nerve gas and blister gas.
+Gospić, through his ownership of a meat-packing plant, attempts to contaminate large quantities of beef with VX before shipping it off to dozens of countries across the world. Rainbow foils this scheme by raiding the plant and confiscating the nerve agent before it is allowed to proliferate. Gospić then tries to attack Rio de Janeiro with a blister gas bomb hidden inside a float in the Festa Junina parade. Rainbow launches a final assault on Gospić's operation, preventing the planned attack and killing Gospić himself in the process.
+Afterward, John Clark interrogates the captured Gutierrez and learns the full details of the operation. Gospic's plan was to first buy South American oilfields and then kill hundreds of thousands of people throughout the continent, creating an economic crisis and causing the price of the oilfields to plummet. He would then use the massive oil proceeds to finance a new international Fascist movement, which would then invade each of the former Yugoslav territories to create a new Greater Croatia under neo-fascist rule and to finally have his revenge against the Allies for destroying the Ustaše movement. Gutierrez admits that Gospić was financing his presidential campaign in exchange for political protection, referring to him as "a raven picking the bones of an old war", and that he would shield the former Croatian official until his children were ready to fly. However, Gutierrez admits that since Gospić is now dead and he himself is going to jail, none of it matters anymore.
+
+
+== Expansions ==
+
+
+=== Athena Sword (2004) ===
+
+Athena Sword is the first expansion for the PC version of Raven Shield. Athena Sword builds upon the original by adding eight new missions, five new multiplayer maps, three new multiplayer game modes, and seven new weapons. Athena Sword was developed by Ubisoft Milan and released on March 9, 2004. A Mac port was released on November 23, 2004. Athena Sword was packaged with the original game as Tom Clancy's Rainbow Six 3 Gold Edition in 2004.
+
+
+==== Plot ====
+In Raven Shield, Team Rainbow neutralized the terrorist threat and captured Gutierrez, but the threat is not over yet as there are still remnants of his terrorist group and Gutierrez can still control them although imprisoned. The remaining cell still has some chemical weapons, making them a very dangerous threat.
+In 2007, two years after the events of Raven Shield, the terrorist cell strikes at a castle in Milan, Italy and takes hostages, Team Rainbow is immediately brought onto the scene to deal with the threat. The terrorist hunt is then continued along the Adriatic and Mediterranean coast. The last terrorist action is to be set in Athens, Greece, where the remaining terrorists plan to launch a chemical attack. Team Rainbow launches the operation Athena Sword and manages to prevent the attack.
+The final cutscene shows the prison guard who brings a newspaper to Gutierrez where he reads the news about a prevented terrorist attack in Greece. On the last page, he finds a small piece of paper with a message "It's over" and with Clark's signature. Two days later he is found hanged in his cell.
+
+
+=== Iron Wrath (2005) ===
+Iron Wrath is the second expansion for the PC version of Raven Shield. It was in production for almost 2 years before Ubisoft decided to release it as a free download for FilePlanet subscribers on June 9, 2005. Developed by Ubisoft-Casablanca, this latest expansion features a 7-mission campaign in which Rainbow neutralizes a terrorist nuclear bomb threat, 3 classic missions, 8 new multiplayer maps, 6 new weapons, as well as 5 new multiplayer game modes. In October 2008, the CD-key activation server was taken offline, suspending the multiplayer features of Iron Wrath.
+
+
+=== Gold Edition and Complete ===
+Rainbow Six 3: Gold Edition and Rainbow Six 3: Complete are compilation sets that both consist of Raven Shield and Athena Sword, with Complete also including Iron Wrath.
+
+
+== Console versions ==
+
+
+=== Tom Clancy's Rainbow Six 3 ===
+Tom Clancy's Rainbow Six 3 was initially ported to Microsoft's Xbox console to take advantage of the Xbox Live online functionality. The Xbox version was developed by Ubisoft Montreal. The game was later ported to the PlayStation 2 and Nintendo GameCube in early 2004 by developer Ubisoft Shanghai. The Nintendo GameCube version does not take advantage of the Gamecube's online capabilities and is therefore limited to two players for local multiplayer. Although both games are titled Rainbow Six 3, this version is not subtitled Raven Shield and contains somewhat different content. For instance, the multiplayer maps in the console and PC versions are different, with some appearing only in the console versions, others in the PC version.
+The Xbox version of the game features downloadable content in the form of additional levels for users with access to the Xbox Live service. All of the expansion levels are intended for use in the online multiplayer mode.
+
+
+==== Gameplay ====
+The gameplay in the console version of Rainbow Six 3 deviates from its PC counterpart in a number of important areas, notably the exclusion of a mission planning stage and the inability to control multiple characters. Instead, players take the role of Rainbow field commander Ding Chavez and lead a single fireteam consisting of Eddie Price, Louis Loiselle, and Dieter Weber through each of the game's missions. Orders can be issued to the teammates using either an in-game menu or through voice-commands via the Xbox Live headset. This, however, suffered from slight misunderstandings between similar phrases such as "Open frag and clear" and "open flash and clear", and vice versa. To compensate for the decreased control players have over their squad, the squad AI has been improved, with squadmates being able to automatically duck behind objects or assume covering positions within an area. Each teammate has their own unique voice as opposed to generic voices in the PC version.
+The action is also slightly more forgiving in the console version. Chavez and his teammates each have a life bar consisting of four units of health, which must be depleted before that Rainbow operative is incapacitated. In the console versions, it is possible for the player to sustain several bullet hits before dying.
+
+
+==== Plot ====
+Rainbow responds to a series of terrorist attacks against U.S. interests in South America, apparently being conducted by terrorists sponsored by Saudi Arabia. However, the true mastermind behind the attacks is actually the newly elected President of Venezuela, Juan Crespo. Crespo managed to get elected by advocating a strong anti-terror platform and exploiting the fear caused by the rise in terrorist incidents (which he himself orchestrated). His plan is to discredit Saudi Arabia, then cut off the Venezuelan supply of oil to the United States, leading to a significant increase in the value of petroleum. He would then sell barrels of oil to the United States on the black market at highly inflated prices.Rainbow prevents the Venezuelan President from carrying out his plans, ultimately assassinating Crespo himself. They subsequently arrange for the international media to credit the terrorists with causing his death.
+
+
+=== Tom Clancy's Rainbow Six 3: Black Arrow ===
+Developed by Ubisoft Milan, Black Arrow is a semi-sequel to the console version of Rainbow Six 3. Still titled Tom Clancy's Rainbow Six 3, Black Arrow was developed and published by Ubisoft and released for the Xbox on August 5, 2004. Like Rainbow Six 3, Black Arrow was created to take advantage of Microsoft's popular Xbox Live online service. Along with two new online game modes; Total Conquest, Retrieval and a new offline mode Lone Rush, changes were also implemented into Black Arrow from the original Rainbow Six 3. A noticeable change was made to combat the unfair advantages of "lean walking". This change still allows the player to lean but is unable to move until they return to the original standing straight posture.
+
+
+== Reception ==
+
+By the end of 2003, sales of Rainbow Six 3 had reached 1.3 million copies. The game sold 2.2 million copies by the end March 2004.Reception of the game ranged from positive to mixed. GameRankings and Metacritic gave it a score of 88.06% and 86 out of 100 for the Xbox version; 85.64% and 83 out of 100 for the PC version; 76.33% for the first Mobile version of the game and 84.50% for the second one; 72.71% and 70 out of 100 for the PlayStation 2 version; and 68.35% and 68 out of 100 for the GameCube version.IGN gave the PC version an 8.6 out of 10, saying, "Not only does it continue the series' tradition of intense realism and the unforgiving consequences of close-quarters combat, it does it better than any of the previous titles in the series." GameSpot said: "Despite its minor flaws, Raven Shield is still a very impressive addition to the series and a very worthy heir to the Rainbow Six name," and gave the same version an 8.7 out of 10. The publication later named it the best computer game of March 2003. Famitsu gave the Xbox version a score of 8, 7, 8, and 7, combined for a score of 30 out of 40; Edge gave the same version a score of six out of ten and called it "a stupefyingly linear experience. While the individual stand-offs and shoot-outs are exhilarating, the removal of any sense of choice or any requirement of tactical thought makes this more of a theme park ride than a military operation."Computer Gaming World nominated Raven Shield for their 2003 "Shooter of the Year" award, which ultimately went to Call of Duty. GameSpot named its mobile version the best mobile game of July 2004.
+
+
+=== Athena Sword ===
+
+The expansion pack Athena Sword was met with average reception, as GameRankings gave it a score of 71.09%, while Metacritic gave it 72 out of 100. It was nominated for GameSpot's 2004 "Best Expansion Pack" award, which went to Rise of Nations: Thrones and Patriots.
+
+
+=== Black Arrow ===
+
+The Xbox-exclusive Black Arrow was met with positive reception; GameRankings gave it a score of 84.69%, while Metacritic gave it 84 out of 100.
+
+
+== References ==
+
+
+== Notes ==
+
+
+== External links ==
+Active Multiplayer Discord Community - http://www.r6chat.com/
+Community website - http://www.allr6.com/
+Official website
+Tom Clancy's Rainbow Six 3: Raven Shield at MobyGames
+Tom Clancy's Rainbow Six 3 at MobyGames
+Tom Clancy's Rainbow Six 3: Athena Sword at MobyGames
+Tom Clancy's Rainbow Six 3: Black Arrow at MobyGames

@@ -1,0 +1,313 @@
+Namco Museum is a series of video game compilations developed and published by Bandai Namco Entertainment for home video game consoles. The first title in the series, Namco Museum Vol. 1, was released for the PlayStation in 1995. Entries in the series have been released for multiple platforms, including the Game Boy Advance, PlayStation 2, PlayStation Portable, Nintendo DS and Xbox 360. the latest being Namco Museum Archives Vol. 2, released in 2020.
+The Namco Museum name was originally used for a chain of retail stores in the 1980s, which sold merchandise based on Namco video games and characters. The compilations include video games developed by Namco for both arcade hardware and home game systems, including the Family Computer and Sega Genesis. Some iterations use software emulation for the games, while others instead reprogram them from scratch. The collections typically include interchangeable game settings, online leaderboards or unlockable extras, such as games or promotional material. The original PlayStation series, with the exception of Namco Museum Encore, instead placed the player in a virtual museum that housed the individual games.
+The Namco Museum series has been met with a mixed to positive critical response, some praising the emulation quality and unlockable extras while others criticizing the overall presentation and lack of updated features to the included titles. The franchise has sold a total of 14.087 million copies worldwide.
+
+
+== Games ==
+
+
+=== Namco Museum Vol. 1—Encore (1995–1998) ===
+Six Namco Museum volumes were released for the PlayStation from 1995 to 1998. The first five were released worldwide, while the sixth—Namco Museum Encore—was exclusive to Japan. The first five volumes pose a 3D virtual museum that players are able to walk around in, with each game being stored in an "exhibit" room. In these museums, players can view conceptual artwork, marketing material, arcade system boards, and other material relating to the included games. Encore replaces the museum with a standard menu system. The arcade game conversions contain pieces of the original game data, suggesting they are object-level recreations. In Japan, Vol. 2 had a special edition box set that included replica promotional cards and the Namco Volume Controller, while Encore received a large case designed to hold all six games and a memory card. All six volumes were added to the Japanese PlayStation Store as PSOne Classics. Volumes 1 to 4 were released on December 11, 2013 while Vol. 5 and Encore were released on December 18, 2013. The five numbered installments were added to the North American PlayStation Store on September 30, 2014.
+
+
+=== Namco Museum 64 (N64) and Namco Museum (DC, GBA) ===
+Namco Museum 64 for Nintendo 64 and Namco Museum for Dreamcast and Game Boy Advance are the first compilations in the series to omit a virtual museum. The GBA version was released worldwide, while other versions were exclusive to North America, and was a launch title for the system in North America. The following games, originally featured in Namco Museum Vol. 1 and Namco Museum Vol. 3 for the PlayStation, are included:
+
+Pac-Man (1980, not in the GBA version)
+Ms. Pac-Man (1982)
+Galaga (1981)
+Galaxian (1979)
+Pole Position (1982)
+Dig Dug (1982)The GBA version does not retain high scores when powered off, which is also the case with Pac-Man Collection. On the Wii U Virtual Console, however, the Restore Point feature saves scores for both games. The N64 version requires a Controller Pak with eight free pages and one free slot to save high scores and settings. The Dreamcast version requires a VMU with eight free blocks for saving progress, while also offering an mini-game that's exclusive to the VMU titled Pac-It, with gameplay similar to Kaboom!.
+In the United States, Namco Museum for the Game Boy Advance sold 2.4 million copies and earned $37 million by August 2006. During the period between January 2000 and August 2006, it was the third-highest-selling game for handheld game consoles in that country.
+
+
+=== Namco Museum (PlayStation 2, Xbox, Nintendo GameCube) ===
+This version marks the first time an entry has been released on PlayStation 2, Xbox, and Nintendo GameCube. It was first released in 2001 on PlayStation 2, followed by Xbox and Nintendo GameCube in 2002.
+The collection on these consoles includes all the games from Namco Museum 64 and Namco Museum for Dreamcast plus:
+
+Pac-Man Arrangement (1996)
+Galaga Arrangement (1995)
+Dig Dug Arrangement (1996)
+Pac-Attack (1993) – hidden game
+Pac-Mania (1987) – hidden game
+Pole Position II (1983)This edition of Namco Museum is the first collection in the series to include a game that originated on home consoles (Pac-Attack, originally released on the Genesis and the Super NES and also previously included in the Japanese-only Namco Anthology Vol. 2, and Pac-Man Collection). The version of Pac-Attack seen here also resembles the Genesis version, as opposed to the SNES version. This is distinguished by the music, which sounds like the Genesis version of the game.
+The "Arrangement" games in the collection were originally on the arcade's Namco Classic Collection Vol. 1 and  Vol. 2. The pitch of the music in Pac-Man Arrangement and Dig Dug Arrangement has been changed slightly from the original: it is higher-pitched than in the arcade versions. This compilation was released only in North America on all three of the consoles on which it was released.
+
+
+=== Namco Museum Battle Collection ===
+
+This title was released on the PlayStation Portable in 2005. It contains over twenty of Namco's games such as Pac-Man (1980) and Galaga (1981). In addition, new "Arrangement" variants are available for Pac-Man, Galaga, New Rally-X (1981) and Dig Dug (1982), which have updated gameplay, graphics and can be played in a versus or co-operative mode using the PSP's ad hoc feature. Game Sharing, a feature that had not yet been used on the PSP, was introduced in this game. This allowed others PSPs in the area to download the first few levels of some of the games.
+The "Arrangement" games in this compilation are not the same as they were on the arcade's Namco Classic Collection Vol. 1 and  Vol. 2. They are entirely new games that were designed to take advantage of the PSP's hardware and features.
+The Japanese version is divided into two volumes, with the second containing three additional games: Dragon Spirit, Motos Arrangement and Pac-Man Arrangement Plus.
+
+
+=== Namco Museum 50th Anniversary ===
+A special edition that marks Namco's founding as a toy manufacturing company in 1955. It was the second Namco Museum compilation to be released on the PlayStation 2, Xbox and the Nintendo GameCube. The Game Boy Advance version was also the second Namco Museum compilation for the GBA. It was also released on PC. In Japan, this was released under the title Namco Museum Arcade Hits! for PlayStation 2 only, with Pac-Mania and Galaga '88 unlocked right from the start and different menu music.
+This compilation includes 16 games, except for the Game Boy Advance, which only includes five games:
+
+Pac-Man  (1980)
+Ms. Pac-Man  (1981)
+Galaga  (1981)
+Galaxian (1979)
+Dig Dug  (1982)
+Pole Position (1982)
+Pole Position II (1983)
+Rolling Thunder (1986)
+Rally-X  (1980)
+Bosconian (1981)
+Dragon Spirit (1987)
+Sky Kid (1985)
+Xevious (1982)
+Mappy (1983)
+Pac-Mania (1987) – unlockable, requires scores of 15,000 in Pac-Man and 20,000 in Ms. Pac-Man to unlock.
+Galaga '88 (1987) – unlockable, requires a score of 40,000 in Galaga to unlock. indicates the five games included in the Game Boy Advance version. This version is similar to the original Namco Museum for that console, which also includes five games and no score-saving capability. 50th Anniversary replaces Galaxian and Pole Position with Pac-Man and Rally-X.
+This is the first edition of Namco Museum with actual arcade game emulation using the original game ROM images (although voice sounds in "Rolling Thunder", sounds for both "Pole Position" games and "Xevious" are stored in .wav files). Also, the GameCube version allows the player to insert a limited number of credits, about five or six, by repeatedly pressing the Z button when the game first starts, but then players can only exit to the main menu during gameplay. The PS2, Xbox, and PC versions allow the player to exit a game at any time, but skip being able to add credits. For Dragon Spirit, Pac-Mania and Galaga '88, the continue features from the original arcade versions have only been retained in the Windows PC version of the collection.
+
+
+=== Namco Museum DS ===
+
+Namco Museum DS was released on September 18, 2007.
+The collection includes ten games:
+
+Pac-Man (1980)
+Galaga  (1981)
+Xevious (1983)
+Galaxian (1979)
+Mappy (1983)
+The Tower of Druaga (1984)
+Dig Dug II (1985)
+Pac-Man Vs. (2003)Super Xevious and the old version of Dig Dug II are hidden games that must be found by browsing the menus for Xevious and Dig Dug II, respectively.
+This game also allows access to each game's DIP switches, but some arcade-exclusive options are left out such as the "Rack-Test" on Pac-Man. It was re-released as part of a "Dual Pack" bundle with the DS version of Pac-Man World 3 in North America on October 30, 2012.
+
+
+=== Namco Museum Remix ===
+
+Namco Museum Remix was released on October 23, 2007 for Wii. This compilation has the original arcade versions of:
+
+Cutie Q (1979)
+Dig Dug (1982)
+Galaxian (1979)
+Gaplus (1984)
+Mappy (1983)
+Pac & Pal (1983)
+Pac-Mania (1987)
+Super Pac-Man (1982)
+Xevious (1983)It also had "Remix" versions of certain games:
+
+Pac 'n Roll Remix
+Galaga Remix
+Pac-Motos
+Rally-X Remix
+Gator Panic RemixWhen played on multiplayer, the Miis are used. Galaga Remix on this compilation is not the same as the Galaga Remix iOS application.
+
+
+=== Namco Museum Virtual Arcade ===
+
+This collection was released for the Xbox 360 on November 4, 2008, in North America, May 15, 2009, in Europe, June 3, 2009, in Australia and November 5, 2009, in Japan. Namco Museum Virtual Arcade is made up of two sets of games. The first is Xbox Live Arcade, which includes nine Xbox Live Arcade games. These are identical to the digital Xbox Live Arcade versions but are present on the game-disc. These games can be selected from the compilation's menu or, only while the game disc is in the console, accessed directly from the Xbox Live Arcade menu. The next set is Museum, which also includes Museum games, although these are the ones accessible directly from the disc. However, they do not come with achievements or online play. Namco Museum Virtual Arcade is the first Namco Museum game to include Sky Kid Deluxe (1986), while all of the rest were already or previously available on consoles. In common with other disc releases that include full Xbox Live Arcade games on-disc (like Xbox Live Arcade Unplugged for example), installation of the game disc to the Xbox 360 HDD is disallowed.
+Xbox Live Arcade Games
+
+Dig Dug (1982)
+Galaga (1981)
+Galaga Legions (2008)
+Mr. Driller Online (2008)
+Ms. Pac-Man (1982)
+New Rally-X (1981)
+Pac-Man (1980)
+Pac-Man Championship Edition (2007)
+Xevious (1983)Museum Games
+
+Baraduke (1985)
+Bosconian (1981)
+Dig Dug Arrangement (2005)
+Dig Dug II (1985)
+Dragon Buster (1985)
+Dragon Spirit (1987)
+Galaga '88 (1987)
+Galaga Arrangement (2005)
+Galaxian (1979)
+Grobda (1984)
+King & Balloon (1980)
+Mappy (1983)
+Metro-Cross (1985)
+Motos (1985)
+Pac & Pal (1983)
+Pac-Man Arrangement (2005)
+Pac-Mania (1987)
+Pole Position (1982)
+Pole Position II (1983)
+Rally-X (1980)
+Rolling Thunder (1986)
+Sky Kid (1985)
+Sky Kid Deluxe (1986)
+Super Pac-Man (1982)
+The Tower of Druaga (1984)The Arrangement games are the same as they were on Namco Museum Battle Collection for PSP, although New Rally-X Arrangement is not included in this compilation. Additionally, on all games, the original 2-player modes from the original arcade versions (where applicable) do not appear here; all games are one-player only. The Xbox Live Arcade games do not have multiplayer either with the exception of Mr. Driller Online's online mode. The Xbox Live Arcade games can only be played when the disc is inside the system. The games must be downloaded from Xbox Live Marketplace for their regular prices in order for the games to be retained in the system's game library.
+
+
+=== Namco Museum Essentials ===
+
+Namco Museum Essentials  was released on January 29, 2009. It includes:
+
+Pac-Man (1980)
+Galaga (1981)
+Dig Dug (1982)
+Xevious (1983)
+Dragon Spirit (1987)
+Xevious Resurrection (2009)PlayStation Home included a virtual arcade space with sample versions of the games.The PlayStation Store also had a free trial version that only includes the first at the few levels of:
+
+Pac-Man
+Galaga
+Dig Dug
+XeviousBoth the demo and the full version were delisted from the PlayStation Store on March 15, 2018.
+
+
+=== Namco Museum Megamix ===
+
+An updated version of Namco Museum Remix for the Wii, which was released on November 16, 2010 in North America only. It adds additional arcade games and an additional "Remix" game. It adds a level select feature to all of the arcade games except Cutie Q.
+Arcade Games
+
+Bosconian (1981)
+Cutie Q (1979)
+Dig Dug (1982)
+Dig Dug II (1985)
+Galaga (1981)
+Galaxian (1979)
+Gaplus (1984)
+Grobda (1984)
+King & Balloon (1980)
+Mappy (1983)
+Motos (1985)
+New Rally-X (1981)
+Pac & Pal (1983)
+Pac-Man (1980)
+Pac-Mania (1987)
+Rally-X (1980)
+Super Pac-Man (1982)
+Xevious (1982)Remix Games
+
+Grobda Remix (2010)
+Pac-Motos (2007)
+Pac 'n Roll Remix (2007)
+Galaga Remix (2007) (completely different from the Galaga Remix iOS application)
+Rally-X Remix (2007)
+Gator Panic Remix (2007)
+
+
+=== Namco Museum (Nintendo Switch) ===
+Simply titled Namco Museum, it was developed for the Nintendo Switch and released on July 28, 2017 on the Nintendo eShop. Much like Namco Museum DS, the game includes a remake of Pac-Man Vs.. It contains the following games:
+
+Pac-Man (1980)
+Galaga (1981)
+Dig Dug (1982)
+The Tower of Druaga (1984)
+Sky Kid (1985)
+Rolling Thunder (1986)
+Galaga '88 (1987)
+Splatterhouse (1988)
+Rolling Thunder 2 (1990)
+Tank Force (1991)
+Pac-Man Vs. (2003)Due to the violent nature of Splatterhouse, this is the first Namco Museum game to be rated T for Teen by the Entertainment Software Rating Board. A retail release bundled with Pac-Man Championship Edition 2 Plus, titled Namco Museum Arcade Pac, was released on September 28, 2018.
+
+
+=== Namco Museum Mini Player ===
+Namco Museum Mini Player is a dedicated handheld console shaped like a miniature arcade cabinet developed by My Arcade that includes 20 Namco games and was released by Bandai Namco Entertainment on June 24, 2019. While it includes some games that originated on home consoles, the games included that did originate in arcades are based on their original arcade versions. The games included are:
+
+Battle City (1985)
+Dig Dug (1982)
+Dig Dug II (1985)
+Dragon Spirit (1987)
+Galaga (1981)
+Galaxian (1979)
+Mappy (1983)
+Pac-Attack (1993)
+Pac-Man (1980)
+Pac-Mania (1987)
+Pac-Man 2: The New Adventures (1994)
+Phelios (1988)
+Rolling Thunder (1986)
+Rolling Thunder 2 (1990)
+Rolling Thunder 3 (1993)
+Sky Kid (1985)
+Splatterhouse (1988)
+Splatterhouse 2 (1992)
+The Tower of Druaga (1984)
+Xevious (1983)
+
+
+=== Namco Museum Collection ===
+Namco Museum Collection is a series of video game compilations for the Evercade handheld console which was released on May 22, 2020.Unlike other compilations, the games in these compilations are based on their home console versions (NES/Famicom, SNES/Super Famicom, and SEGA Genesis/Mega Drive) rather than arcade versions.
+
+
+==== Collection 1 ====
+Battle Cars (1993)
+Dig Dug (1985)
+Galaxian (1984)
+Libble Rabble (1994)
+Mappy (1984)
+Mappy Kids (1989)
+Metal Marines (1994)
+Pac-Man (1984)
+Quad Challenge (1991)
+Star Luster (1985)
+Xevious (1984)
+
+
+==== Collection 2 ====
+Burning Force (1990)
+Dig Dug II (1986)
+Dragon Spirit: The New Legend (1989)
+Galaga (1985)
+Pac-Attack (1993)
+Phelios (1990)
+Splatterhouse 2 (1992)
+Splatterhouse 3 (1993)
+The Tower of Druaga (1985)
+Warpman (1985)
+Weaponlord (1995)
+
+
+=== Namco Museum Archives ===
+
+Namco Museum Archives Vol. 1 and Namco Museum Archives Vol. 2 were both released on June 18, 2020 for the Xbox One, PlayStation 4, Nintendo Switch, and Steam outside of Japan.Developed by M2 and B.B. Studio. The two volumes are localized versions of the Japanese compilation Namcot Collection, featuring Namco-published games for the Nintendo Entertainment System and Family Computer. Vol. 1 contains an eight-bit demake of Pac-Man Championship Edition, and Vol. 2 contains a homebrew conversion of Gaplus.
+
+
+==== Vol. 1 ====
+Dig Dug (1985)
+Dragon Buster (1987)
+Dragon Spirit: The New Legend (1989)
+Galaxian (1984)
+Mappy (1984)
+Pac-Man (1984)
+Pac-Man Championship Edition (2020)
+Sky Kid (1986)
+Splatterhouse: Wanpaku Graffiti (1989)
+The Tower of Druaga (1985)
+Xevious (1984)
+
+
+==== Vol. 2 ====
+Battle City (1985)
+Dig Dug II (1986)
+Dragon Buster II: Yami no Fūin (1989)
+Galaga (1985)
+Gaplus (2020)
+Legacy of the Wizard (1987)
+Mappy-Land (1986)
+Mendel Palace (1989)
+Pac-Land (1985)
+Rolling Thunder (1989)
+Super Xevious: GAMP no Nazo (1986)
+
+
+== Reception ==
+In August 1996, Namco claimed accumulated sales of 600,000 units for the Namco Museum series in Japan alone.The four reviewers of Electronic Gaming Monthly gave Volume 1 an 8.125 out of 10, citing the excellent quality of the emulation and the interesting virtual museum content. Mark Lefebvre summarized that "Namco has given gamers what they've always been asking for: old titles." Next Generation likewise complimented the emulation quality and the virtual museum, and concluded that for those interested in retro compilations, "this is as good as this sort of thing gets." They scored it four out of five stars. Maximum gave it three out of five stars, reasoning that "On the one hand, this is a collection of six indisputably classic games, three of which rank among the most influential titles in the history of videogames. On the other hand, all the games on the disk are over ten years old, and influential or not, they're definitely well past their sell by date. Pole Position may have revolutionised the racing genre in 1982, but would you really choose to play it over Ridge Racer Revolution in 1996?" While GamePro found that all of the games save ToyPop remained great fun, the reviewer criticized the absence of the voice samples from Pole Position and compared the 3D museum unfavorably to the bonus content in Williams Arcade's Greatest Hits. He concluded the compilation to be worth renting at the least, and a must-have for retro gaming fans.Reviews for Volume 2 were also mixed to positive, though most critics found the selection of games weaker than that of Volume 1. The four reviewers of Electronic Gaming Monthly gave Volume 2 a 7.125 out of 10, with all four remarking that the compilation had two or three genuine classics, with the remaining three or four games being mediocre and overly obscure. However, they disagreed on which games fell into which group; for example, Dan Hsu said that "Super Pac-Man stinks", while Crispin Boyer called it "the best reason to buy NM2" and "the height of the yellow pellet-eater's evolution." Jeff Gerstmann of GameSpot similarly commented, "While Mappy, Xevious, Gaplus, and Super Pac-Man are infinitely playable, the lesser-known Grobda and Dragon Buster are mediocre at best." He gave the compilation a 7.1 out of 10, praising the charm of the antiquated graphics and sound effects and the still potent gameplay. Next Generation picked Grobda, Dragon Buster, and Mappy as the mediocre games in the compilation, reasoning that "all are examples of game genres that have evolved way beyond these originals, and with good reason." They scored it two out of five stars. In direct contradiction to GameSpot and Next Generation, GamePro said that of the six games, "Super Pac-Man's weak control makes it the biggest disappointment, while Dragon Buster's action/adventure swordplay and Grobda's rapid-fire tank shooting hold up the best." They recommended the compilation for "those who enjoy simple, classic gameplay".Volume 3 continued the trend of increasingly mixed reviews for the series. Jeff Gerstmann and Next Generation both commented that Dig Dug, Ms. Pac-Man, and Galaxian are genuine classics, Pole Position II is good but suffers from the absence of the voice clips from the arcade version, The Tower of Druaga has aged poorly, and Phozon was a terrible game to begin with. However, while Gerstmann concluded the collection to be "a real letdown" after the first two volumes and advised gamers to skip it, giving it a 5.6 out of 10, Next Generation concluded that "the number of true classics on Volume 3 outweigh the ones that never should have been unearthed", and gave it three out of five stars. GamePro approved of both the entire set of games and the quality of the emulation, and deemed Volume 3 "must-have arcade fun".Volume 4 saw a particularly steep decline in the series' critical standing, with most critics agreeing that of the five games included, only Ordyne and Assault were at all worthwhile. Gerstmann gave it a 4.5 out of 10, and said the collection "is just plain depressing. It contains five games, and most of them are little known games that were little known for a reason." Electronic Gaming Monthly's review team gave it a 5.75 out of 10. The team was evenly split: Shawn Smith and Crispin Boyer, each voting a 6.5 out of 10, found the interesting museum content and the two or three enjoyable games make the collection worthwhile, while Dan Hsu and Sushi-X both gave it a 5.0 and said it was a disappointment compared to the earlier volumes. Both Gerstmann and GamePro commented that the first three volumes of Namco Museum had exhausted the series concept and Namco's backlog of genuine classics, and that Namco should have let the series end with volume 3.
+
+
+== See also ==
+List of Bandai Namco video game compilations
+
+
+== Notes ==
+
+
+== References ==

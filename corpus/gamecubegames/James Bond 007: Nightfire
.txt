@@ -1,0 +1,45 @@
+James Bond 007: Nightfire is a first-person shooter video game published by Electronic Arts in 2002 for the GameCube, PlayStation 2, Xbox and Microsoft Windows, with additional versions released for the Game Boy Advance in 2003, and the macOS in 2004. The game's story involves fictional British secret agent James Bond, as he undertakes a mission to investigate the operations of a noted industrialist, uncovering a plot by them to conquer the world via a major defence satellite created by the United States. While the game involves the use of Pierce Brosnan's likeness with his role as Bond, before his fourth and final Bond film Die Another Day (2002), the character is voiced by Maxwell Caulfield.
+The console versions of the game received positive reviews from critics, including the creation of an original plot for James Bond, while the computer versions, which featured modifications to the storyline, different missions and the removal of driving sections used in console versions, received mixed receptions after launch, despite achieving positive commercial sales.
+
+
+== Gameplay ==
+Nightfire features two game modes for use - a single-player mode featuring a variety of missions and focused on the game's story, and a multiplayer mode where players can engage with other players, as well as AI bots. The game operates from a first-person perspective and features a variety of weapons all based on real-life models, but, much like previous games involving James Bond, have alternate names. The game features a similar arrangement to monitoring health as with GoldenEye 007, in that players have a health meter that decrease when they take damage, with the player's character killed when its fully depleted, though armor can be acquired to absorb the damage during gameplay.
+In the single-player mode, players must complete a set of objectives, which requires navigating around each mission's level dealing with hostiles and making use of gadgets. Completing a level is done by completing all objectives and reaching the level's exit goal. Each level has a number of unique tokens, referred to as "007 tokens", which unlock special rewards in the game, and are acquired by completing certain actions in a level. At times, the player also engages in driving sections during certain levels - these stages function in a similar style to those used in the Spy Hunter series of video games, in which the player uses offensive weapons and gadgets to deal with enemies, while following a linear A-to-B route from the start to the finish of the level. Completing a level allows the player to receive a score that denotes how well they performed.
+
+
+=== Multiplayer ===
+Multiplayer mode focuses on players battling with each other and AI bots across a variety of stages - while some stages are based on levels from the game, others are based on settings and fictional locations based from the James Bond film franchise, including Fort Knox, from Goldfinger (1964), and Atlantis from The Spy Who Loved Me (1977). Players can choose which characters to play as, including a selection taken from the film franchise such as Jaws, Baron Samedi, Max Zorin, Auric Goldfinger, and Renard. Players can customize settings before a match, such as length of play, conditions for winning and so forth, as well as the setting for any AI bots used in the match - alongside players, bots can be used (four for PlayStation 2, and six for GameCube and Xbox), which can be customized with different reaction times, speed and health.
+
+
+=== PC/Mac gameplay ===
+Computer versions of the game function similar to the console versions, though with some differences:
+
+There are no driving stages used in single-player.
+Some weapons are changed for different models.
+Multiplayer mode allows for online gaming and the use of 12 bots; console versions mainly offer split-screen multiplayer.
+
+
+== Plot ==
+British MI6 agent James Bond works alongside French Intelligence operative Dominique Paradis to prevent the use of a stolen nuclear weapon within the city of Paris by a terrorist group during New Year's Eve. The pair manage to thwart the terrorists and prevent the device from being detonated before Bond and Dominique spend the evening celebrating the new year. Shortly after returning, Bond's boss M reveals news that a missile guidance chip, intended for the Space Defense Platform (SDP) - a new militarized space station built by the United States - has been stolen. MI6 suspects the theft is linked to Phoenix International, a company owned by industrialist Raphael Drake - and that the head of Drake's Asian division, Alexander Mayhew, is due to bring the chip to him during a party at his castle in Austria.
+M sends Bond to recover the chip during the exchange and investigate Drake's motive for its acquisition. Infiltrating the party, Bond meets with CIA agent Zoe Nightshade, his contact sent to assist in the chip's recovery, but is surprised to find Dominique within the castle, learning that she is working undercover as Drake's mistress. After reaching the meeting room where Drake and Mayhew intend to meet, Bond overhears the men discussing a project codenamed "Nightfire" before discovering that Zoe had been captured. Bond recovers the chip before going after and rescuing Zoe, whereupon the pair make their way down the mountain for a rendezvous with Q, dealing with Drake's men and his Head of Security, Armitage Rook. Following the incident, Mayhew contacts MI6 to offer information on Drake's operations in exchange for protection.
+Bond is sent to Japan to extract Mayhew at his Japanese estate, but shortly after being introduced to his bodyguard Kiko, Drake's men attack the building. While Mayhew is killed, Bond finds important information that leads him to Phoenix's Tokyo offices and a nuclear power plant being decommissioned. After gathering evidence, Kiko turns on Bond and brings him to Drake, who exposes Dominique as a spy for helping Bond escape his security teams and has her executed. Before he is killed himself, Bond breaks free and escapes to the ground floor, where he is rescued by Australian Intelligence agent Alura McCall. Upon leaving Tokyo, Bond finds himself sent to an island in the South Pacific alongside Alura, learning that Drake owns it and using a jamming signal to conceal what he has stationed there.
+Sent ahead of a joint taskforce of UN, EU and NATO forces, Bond and Alura deal with the island's defenses, while eliminating Rook and Kiko. Discovering that Drake built a launch facility on the island, Bond determines that he plans to capture the SDP and use its weapons to dominate the world. While Alura remains behind, Bond pursues after Drake in one of his space shuttles. Reaching the station, he proceeds to sabotage it so that it destroys itself, before killing Drake as it begins to break apart. Bond swiftly escapes in an escape pod moments before the station is destroyed and returns to the planet. Upon his return, Bond reunites with Alura and spends a romantic evening to celebrate another successful mission.
+
+
+== Development ==
+The game had been in development as early as September 2000, and was announced as James Bond 007 in May 2001. By February 2002, the game's working title was James Bond in... Phoenix Rising. The game's final title was unveiled in May 2002. In July 2002, Pierce Brosnan's head was scanned with a laser digitizer to create the James Bond character model.Driving levels were developed by Savage Entertainment and a team at Electronic Arts. Nightfire marked the first time a James Bond video game featured an original song: "Nearly Civilized" performed by Esthero. Its original score was composed by Steve Duckworth, Ed Lima and Jeff Tymoschuk.
+In January 2003, Electronic Arts announced that a Game Boy Advance version of the game was in development by JV Games.
+
+
+== Reception ==
+
+James Bond 007: Nightfire received "generally positive" and "mixed or average" reviews, according to review aggregator Metacritic. It was a runner-up for GameSpot's annual "Best Shooter on GameCube" award, which went to TimeSplitters 2. In 2008, PC Games Hardware included Alura McCall, Makiko Hayashi, Dominique Paradis and Zoe Nightshade among the 112 most important female characters in games.In the United States, the computer version of Nightfire sold 230,000 copies and earned $5.3 million by August 2006, after its release in November 2002. It was the country's 93rd best-selling computer game during this period. The PlayStation 2 version of Nightfire received a "Platinum" sales award from the Entertainment and Leisure Software Publishers Association (ELSPA), indicating sales of at least 300,000 copies in the United Kingdom.
+
+
+== References ==
+
+
+== External links ==
+James Bond 007: Nightfire at MobyGames
+James Bond 007: Nightfire (Microsoft Windows & Mac OS X) at MobyGames
+James Bond 007: Nightfire (Game Boy Advance at MobyGames

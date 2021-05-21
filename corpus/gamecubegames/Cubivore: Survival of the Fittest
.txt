@@ -1,0 +1,53 @@
+Cubivore: Survival of the Fittest, known in Japan as Dōbutsu Banchō is an action-adventure video game co-developed by Saru Brunei and Intelligent Systems for the GameCube. It was originally published by Nintendo only in Japan on February 21, 2002. After Nintendo expressed intentions to not release the game in other regions, Atlus localized it for North America on November 10, 2002.
+Development for Cubivore originally started for the Nintendo 64 with 64DD peripheral, but later was moved to the GameCube. The player controls a cube-shaped beast called a Cubivore, which eats other such beasts in order to mutate and become stronger. The game received mixed reviews upon release.
+
+
+== Plot ==
+In the land of the Cubivores, the beast known as the Killer Cubivore reigns at the top of the animal food chain. This powerful tyrant and his gang of cronies have gorged themselves on the essence of the land, known in the game as "Wilderness", so much that they have absorbed some of it into themselves. Meanwhile, nature has begun to fade away, becoming drab and infertile, and the number of beasts has declined. The user-named protagonist has taken it upon himself to become King of All Cubivores, in order to challenge the Killer Cubivore and restore the Wilderness to the world.
+
+
+== Gameplay ==
+Cubivore's gameplay is an action-adventure game with a few role-playing video game elements in it. The purpose of Cubivore is to kill the Killer Cubivore and its cronies. To accomplish this, the player's Cubivore must go through several mutations, through several lifetimes "laps" and generations of "offspring". Upon attaining 100 mutations, the Cubivore can become powerful enough to produce an offspring capable of fighting the Killer Cubivore. Thus, Cubivore is a game that is meant to somewhat represent natural selection.
+Combat is simple but strategic and often fast-paced. When facing another Cubivore, the player's job is to attack it, weaken it, and finally kill it by tearing off its limbs. Cubivores are able to attack, jump, run, evade (i.e. walk backwards), and block. Much of the combat consists of trying to learn the enemy's attack patterns and hitting a weak point. Once the enemy has been subdued, it becomes a battle of wills when the Cubivore clamps down the opponent and attempts to tear off its limbs. Upon eating a limb, the Cubivore heals itself a bit, absorbs the color of that limb, and mutates if possible. Finally, some boss monsters have a special limb called "Raw Meat", which grants special abilities when consumed.
+
+
+=== Mutation ===
+The core of Cubivore is its complex mutation system based on color, intensity, and limbs. There are five colors of Cubivore, each with their own strengths and weaknesses.
+
+Yellowbrate: very slow, but has the best attack and defense and blocking capabilities; they tend to resemble horses, zebras, hippopatomi and various hoofed animals.
+Redapeds: have the best jumping ability and tend to resemble birds, however, their attack strength is lower than average.
+Bluocytes: have the best attack range but slightly lower defense; they tend to resemble frogs, snakes and various reptiles.
+Purpials: can walk backwards and turn around very quickly, sometimes faster than their normal speed; they tend to resemble rabbits, monkeys and other miscellaneous mammals.
+Greyodons: have the best running capability and only Yellobrates have higher attack power, and have balanced statistics; they tend to resemble dogs, wolves and other canines.Intensity refers to the color type and combination. The more intense a color is the stronger the Cubivore. The levels of intensity in increasing order are Pale, "PaleDark", Dark, Clash, and Rage. PaleDark refers to any combination of Pale and Dark limbs of the same color. Clash refers to a specific combination of Rage panels. For example, Clash Yellow consists of any combination of Rage Yellow and Rage Red.
+Less essential than mutations are limbs. Limbs are lost when torn off in combat, resulting in a mutation of whatever has torn off the appendage. A Cubivore with missing limbs can regain them by eating limbs from other Cubivores. Every generation of a Cubivore will have one more limb than its parent generation. Each limb can hold one color, one Raw Meat, and allows the Cubivore to attack stronger enemies. For example, a Cubivore with one limb can attack one with up to two limbs, while a Cubivore with two limbs can attack one with up to three limbs.
+Much of the game's strategy comes from deciding how to mutate. Because much of the game's emphasis is on attaining as many mutations as possible, the player will want to try to discover how to obtain certain colors in certain levels, rather than simply eating everything. The player also has to worry about tearing the right limbs off enemies and not eating too many. The Cubivore is given an option to "take a Doo" and expunge unwanted color panels from his system if necessary or to use the "Diet Plan" technique to only eat one color panel off an enemy. There 30 possible mutations of each color type, for a total of 150. Once a player has attained all 150 mutations, they are taken to Shangri-la, a place of eternal rest for Cubivores.
+
+
+=== Mating ===
+Another large focus of Cubivore is on its mating system. At certain points in the game, a Cubivore will face a boss it simply cannot beat, since it does not have enough limbs to attack it successfully. Thus, a Cubivore sees fit to enter a "Love Tunnel", whereupon it can mate with females and inhabit a new generation of Cubivore, now with an additional limb. As the player's Cubivore attains more mutations, he will find more females willing to mate with him, thus giving the option for more variety of offspring. Once the two have mated, the player is given the option of selecting from the pool of possible offspring (although many females may be willing to mate with the Cubivore, the number that give birth is random, unless the Cubivore has collected over 100 hearts for that cycle, at which point all females will give birth). Any offspring selected will be stored into the "EZ Mutate" catalog, allowing a player to switch to that mutation via the D-pad anytime when they have that amount of limbs. Any offspring chosen that are not already in the catalog of overall mutations, separate from the "EZ Mutate" catalog, will be added.
+
+
+== History ==
+
+
+=== Development ===
+IGN said the game was designed by the creator of Jungle Park and the designer of PaRappa the Rapper. It was first designed for the Nintendo 64 with the 64DD floppy drive peripheral, and then was converted to cartridge format by 2000 like so many others due to the commercial failure of the 64DD. In July 2000, IGN initially roughly translated the name as "something like Animal Thugs" with a first impression of bafflement: "[it is] probably the weirdest game to come out on the N64. What is it about? Well, nobody really knows. Not even the programmers are sure exactly what genre Doubutsu falls under, but the words evolution, life, and love are key factors. Weird." At Nintendo's Space World 2000 trade show in August 2000, IGN said the purpose was to make players "fight and eat their way to the top of the food chain". Playing the demo for the first time, IGN said it had a great premise but "some serious hurdles if it wants to appeal to a mainstream audience". The graphics were "heavily stylized [as a] demented artist's cubic nightmare", with a low polygon style, large letterboxing, a lack of "cool effects", and a low framerate—overall "cheesy". "The actual gameplay is simple and fun, kind of in the line of the evolution classic E.V.O., but with a much more artsy approach."A Cubivore appears as a collectible trophy named Alpha in 2001's Super Smash Bros. Melee, with factoids in the description and the game of origin listed as "future release".On February 11, 2002, IGN said Animal Leader's development had shifted to the GameCube console, but hadn't benefited much from the next generation console's power.
+
+
+=== Release ===
+Animal Leader was released in Japan for the GameCube on February 21, 2002. The response from critics was mixed, and due to less than favorable sales, Nintendo later announced that it had no intentions to localize Animal Leader in other countries. The game remained Japan-only until Atlus announced in August 2002 that it would perform localization. Atlus renamed it Cubivore, after the game's cube-shaped creatures.
+
+
+== Reception ==
+
+Cubivore received mixed reviews in both Japan and America, attaining aggregate rating of 71 on Metacritic and GameRankings. Critics seemed to enjoy the game's creativity and unusual premise, as the game was a substantial departure from anything else on the market. The most common complaints were regarding repetitive gameplay and a frustrating camera setup. Reviewers had mixed reactions to the simple graphics. The visuals were often compared to those of a Nintendo 64 game, and some found this to be an endearing element of the game's overall style. Critics also found the game's sound effects and classical piano-based soundtrack to be somewhat charming, but noted that the music tended to become repetitive at times.It was nominated for GameSpot's annual "Best Graphics (Artistic)" and "Best Game No One Played" awards among GameCube games, which went respectively to Eternal Darkness and Sega Soccer Slam.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Cubivore: Survival of the Fittest at MobyGames

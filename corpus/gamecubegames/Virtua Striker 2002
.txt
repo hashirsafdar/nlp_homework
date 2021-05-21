@@ -1,0 +1,45 @@
+The Virtua Striker (バーチャストライカー in Japanese) video games are arcade-style football/soccer sports games by Sega. Originally developed by Sega AM2, the series moved to Amusement Vision with Virtua Striker 3, but it later moved to Sega Sports Design R&D Dept. with Virtua Striker 4. The original Virtua Striker, released in 1994, was the first association football game to use 3D computer graphics, and was also notable for its early use of texture mapping, along with Sega's own racing video game Daytona USA. Only two games in the series have been released on home consoles - Virtua Striker 2 for the Sega Dreamcast, and Virtua Striker 3 for the GameCube.
+
+
+== History ==
+The main arcade series includes:
+
+Virtua Striker (1995)
+Virtua Striker 2 (1997)
+Virtua Striker 2 ver. '98 (update, 1998)
+Virtua Striker 2 ver. '99 (update, 1998)
+Virtua Striker 2 ver. '99.1 (update, 1998)
+Virtua Striker 2 ver. 2000 (update, 1999)
+Virtua Striker 2 ver. 2000.1 (Sega Dreamcast port; December 1999; named Virtua Striker 2 in US version)
+Virtua Striker 3 (2001)
+Virtua Striker 2002 (2002)
+Virtua Striker 3 ver. 2002 (Nintendo GameCube port; February 2002; named Virtua Striker 2002 in US version)
+Virtua Striker 4 (2004)
+Virtua Striker 4 ver. 2006 (2006)The original Virtua Striker game received Xbox 360 and PlayStation 3 ports, distributed respectively through Xbox Live Arcade and PlayStation Network, in February 2013, exclusively for Japan.
+
+
+== Overview ==
+The original Virtua Striker used Sega's Sega Model 2 hardware. The Virtua Striker 2 series run on Sega Model 3, with the exception of Virtua Striker 2 ver. 2000, which appeared on the Dreamcast-based NAOMI system. Virtua Striker 3 was released for the NAOMI 2; subsequent installments (Virtua Striker 2002 and Virtua Striker 4) used the GameCube-based Triforce hardware. Virtua Striker 4 added a card system and mobile phone syncing, allowing players to configure strategies and formations on the move.
+The game consists of a single-elimination knock-out tournament with 16 teams (like in the knock-out stage of the FIFA World Cup), with each match lasting two minutes by default, plus injury time and, if the match ends in a draw, one extra minute of sudden death. If the draw persists, penalty shootouts are used to decide the winner. In the console versions and Virtua Striker 4, matches are divided in two halves of one and a half minute each, with substitutions allowed at half time. Virtua Striker 4 also adds a qualifying match, which grants access to the tournament proper if won.
+The game operates with three buttons: one for passing (which is also used for sliding tackles when not in possession of the ball), one for long balls (which automatically crosses if the player is running parallel to the box) and one for shots, which can be charged or, if the player is on the receiving end of a cross, tapped for a header or volley finish. The Start button is used to alternate between each team's two available tactical schemes before and during a match (except for the first game, which had no such mechanic, as each team came with its own preset formation) - while each has an offensive or defensive mentality, the formation of choice before kick-off will influence in which formation the team will adopt a neutral mentality. Virtua Striker 4 also added a sprint button.
+The series has been ported to consoles on two occasions: Virtua Striker 2 for the Dreamcast (released in Japan and Europe as Virtua Striker 2 ver. 2000.1) and Virtua Striker 2002 for the GameCube (released in Japan and Europe as Virtua Striker 3 ver. 2002). Virtua Striker was also featured as a minigame in Sega's PlayStation 2 EyeToy-based game, Sega Superstars.
+The first three games of the series (counting also the Virtua Striker 2 revisions, but not the 2002 revision of Virtua Striker 3) feature a hidden team called FC Sega, made up of the game's developing staff, which always faces the player's team in special matches after the player wins the final match, and can be selected through a special cheat code.
+Virtua Striker 2 features two other hidden teams in addition to FC Sega: MVP Yukichan and MVP Royal Genki (exclusive to Version 2000.1), both of which consist of strange, cartoonish characters. The original team selection BGM from the first game also exists, and can be heard through a special code.
+In Virtua Striker 3 and the GameCube port, ver. 2002, there is an unlockable team called FC Sonic. This team is made up of Sonic, Tails, Knuckles, Amy, Dr. Eggman (who plays as the goalkeeper), four Neutral Chao, a Dark Chao, and a Hero Chao, and has Sonic's creator, Yuji Naka, as manager.
+Virtua Striker 4 was released on the Triforce arcade platform in 2005, and was updated in 2006. It had online play with ALL.Net.
+
+
+== Reception ==
+In Japan, Game Machine listed Virtua Striker on their July 15, 1995 issue as being both the second most-successful arcade game and the most-successful dedicated arcade game of the year. A critic for Next Generation applauded the original Virtua Striker as both "excellent to play and watch". He cited the smooth and accurate control, realistic player moves, camera which consistently zooms in or out to the perfect frame at every moment of play, "gorgeous" texture-mapped players and backgrounds, and realistically strong defense. He gave it four out of five stars.
+
+
+== See also ==
+Virtua Pro Football
+
+
+== References ==
+
+
+== External links ==
+Virtua Striker series at MobyGames
+Virtua Striker Manual

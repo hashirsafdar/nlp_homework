@@ -1,0 +1,59 @@
+Wave Race: Blue Storm is a jetski racing game released as a launch title for the GameCube in late 2001. A sequel to the 1996 Nintendo 64 game Wave Race 64, and the third in the series that started with the 1992 Game Boy game Wave Race, Wave Race: Blue Storm was developed by NST and published by Nintendo.
+
+
+== Gameplay ==
+
+
+=== Championship mode ===
+Players begin by selecting a character to use for the entire championship.  Following this, the player is shown the courses on which they can race and a weather forecast for each day of the circuit.  The more difficult the circuit, the more races (and thus days) the player must complete.  Players can select the order in which they wish to race the courses.  This decision can be affected by aforementioned forecast.  If players find a certain course to be more difficult when it is raining, they can elect to play that course on a day which is forecast to be sunny.
+After the selection of a course, gameplay begins.  Players begin in a field of eight racers.  Position at the beginning of a race is determined by your finish in the previous race, e.g. a player finishing third in one race will begin in the third position before the starting line of the following race.  In the first race, players begin in eighth.  As the player waits for the race to begin, a stoplight changes from red to yellow to green, indicating the start of the race.  For pressing the accelerator exactly as the light turns green, the player will receive a turbo, which can be activated at the player's whim and which significantly boosts the speed of the player's craft for a short time.
+The player then begins to navigate the course.  In every course, buoys are set up in two colors: red and yellow.  Red buoys are supposed to be passed on the right; yellow buoys on the left.  Passing buoys correctly builds up the player's turbo meter.  Other than the method mentioned above, which only works at the very beginning of a race, turbos can only be acquired by correctly navigating five of these buoys or by performing a stunt (see Stunt Mode under Game Modes, below).  Each stunt, unlike each buoy, fills from one-fifth to three-fifths of the meter depending on the stunt.  Incorrectly passing a buoy results in the loss of any built-up turbo stages.  This leads to some degree of strategy.  For example, a player might build up a turbo, then use it to cut off a buoy placed in an awkward manner, or one off a distance to the side, thus eliminating much of the time that would have been used to get to and correctly pass that buoy.
+There are other, smaller red buoys which mark the boundaries of each course.  Staying outside of them for too long results in a disqualification.
+During the race, the player is often bombarded (depending on weather conditions) with waves and rain which can force an inexperienced player off-course, or into obstacles or other riders.  Successful navigation of these waves is essential.  This is where the game's uniqueness in the genre comes to light.  Waves are completely random and are affected by the weather, making for a different experience from that of most other games in the racing genre, such as the PlayStation 2's Splashdown.
+Every race consists of three laps.  Often during a race, shortcuts will be revealed as the player passes each lap.  Spotting these shortcuts as they appear can be essential to victory.
+At the end of each race, the player is awarded points proportional to the place in which they finished. A player needs a certain point total at the end of each race in order to advance to the next day.  If this total is not reached, the player must begin the circuit again.
+Victory comes when the player finishes first, second, or third overall in total points at the end of the circuit. For the expert circuit, the player must finish first for all weather conditions in time attack mode.
+
+
+=== Other modes ===
+Time Attack: The player selects an unlocked course and races alone. The object is not to win, but rather to finish in as fast a time as possible.
+Stunt Mode: The goal of this mode is to achieve high scores by performing stunts. Stunts are performed by executing certain button combinations. Stunts can also be executed in any other mode, and can be used to build up one's turbo meter.
+Multiplayer: For up to four players. Championship Mode and Stunt Mode may be played in this fashion.
+Free Roam: Allows the player to roam freely through any unlocked course, with no time limit or other racers.
+
+
+=== Characters ===
+There are eight characters in Blue Storm, three of them from the previous game, two newcomers, and some of the rest from  1080° Snowboarding.  Each character is rated on a scale of 1–6 in five different categories which affect that character's performance, with six being the best.  Each character also has his or her own crew chief, which is nothing more than a voice offering encouragement and advice to the player.
+
+Ryota Hayami (age: 23 Japan) is the most balanced character, good for beginners and experts alike. Ryota Hayami was also a playable character in Wave Race 64. Akari Hayami is his younger sister.
+David Mariner, (age: 37 United States) playable in Wave Race 64, has high top speed and a strong grip, but is very difficult to maneuver and has slow acceleration. He is best for experienced players.
+Akari Hayami, (age: 21 Japan) has a low top speed and a weak grip, but high acceleration and maneuvering. She is recommended for beginners, and was not originally from Wave Race 64, but was available in 1080° Snowboarding. Ryota Hayami is her older brother.
+Nigel Carver, (age: 28 United Kingdom) although a heavier character, is not as challenging to use as Mariner or Haywood.
+Ayumi Stewart (age: 26 United States) is a fairly balanced character, good for beginners to experts. She was also available in Wave Race 64.
+Rob Haywood (age: 24 United States) is a heavy character, similar to David Mariner in terms of strengths and weaknesses.  He is also for more experienced players. He is from 1080° Snowboarding.
+Ricky Winterborn (age: 18 Canada) is similar to Akari Hayami, but more stunt-oriented. He is a character from 1080° Snowboarding.
+Serena Del Mar, (age: 19 Brazil) not particularly heavy, she is a challenging character to use and is more directed towards advanced players.
+
+
+== Reception ==
+
+Blue Storm received "favorable" reviews according to the review aggregation website Metacritic. The game was praised for its water effects, weather effects, and physics. The weather effects in the game, most people agreed, were outstanding. They caused wave height to vary and often came on slowly, or would let up surprisingly in the middle of a race. The weather also affected course layout, adding to the game's variety. Physics in the game were unmatched by any other water-based game at the time.  Waves that varied in height and intensity, wakes from other riders and more all attributed to the overall feel of the game and was usually mentioned as one of the games positives.Most negative criticism centered around a few factors: difficulty, graphics, and similarity to Wave Race 64. The difficulty of the game was mostly to the controls, which were more twitchy and required a delicate touch on the control stick and proper use of the GameCube controller's L and R buttons. The control system in Wave Race 64, by contrast, was slower and smoother and as a result, less demanding. Graphically, the game was flagged for having decidedly low poly visuals, with uninspired art and character design. Some of Wave Race: Blue Storm's courses were criticized  for being copies or re-designs of courses from Wave Race 64, and as such, the game felt overly-familiar. In Japan, Famitsu gave it a score of one eight, one nine, one eight, and one seven for a total of 32 out of 40.Blue Storm sold 62,003 units in Japan, and was the third best selling launch title for the GameCube in North America, behind Luigi's Mansion and Star Wars Rogue Squadron II: Rogue Leader.It won GameSpot's annual "Best In-Game Water" prize, and was nominated in the "Best Driving Game" category, which went to Gran Turismo 3: A-Spec.
+
+
+== Appearances in other games ==
+Ryota Hayami appears in Super Smash Bros. Melee as a collectable trophy, with his new look from this game. Several stickers based on Blue Storm can be collected in Super Smash Bros. Brawl.
+
+
+== See also ==
+Splashdown (video game)
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Wave Race: Blue Storm at Nintendo.com (archives of the original at the Internet Archive)
+Wave Race: Blue Storm at MobyGames

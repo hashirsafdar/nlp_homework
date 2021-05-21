@@ -1,0 +1,70 @@
+Donald Duck: Goin' Quackers (known as Donald Duck: Quack Attack in Europe) is a platform game developed and published by Ubi Soft for various consoles and Windows-based personal computers. A different game with the same title was released for the Game Boy Color, as well as on Game Boy Advance, the latter being given the title Donald Duck Advance.
+The game's reception was mixed, with reviewers praising the music, backgrounds and animations, but criticizing the short length and its aim to be played by a younger demographic.
+
+
+== Gameplay ==
+Goin' Quackers's gameplay is very similar to that of Crash Bandicoot, and requires the player to move through various settings in 24 levels in four warp rooms. The four level themes are Duckie Mountain, Duckburg, Magica DeSpell's Manor, and Merlock's Temple. Donald Duck has to dodge various enemies and obstacles throughout the levels and defeat bosses at the end of each warp room. There are also bonus levels where Donald Duck has to outrun a bear, a truck with an evil face, a ghost hand, and a statue head, respectively. The viewpoint of the levels can change between a 2D side-scrolling perspective and a 3D perspective. Re-doing the levels in order to defeat Gladstone's time in same, gives the player advantages in the game.
+The player has four lives that can increase by finding special items. Each life gives Donald two opportunities to be touched by the enemy; the first time is touched, he becomes angry and throws berserk to the enemies, the second time, he loses a life. Donald can also unlock new outfits, which alter cutscenes and idle animations (such as Donald taking photos of the place if he is dressed like a tourist).
+
+
+== Plot ==
+Goin' Quackers begins with Donald Duck, Gladstone Gander, and Gyro Gearloose watching television reporter Daisy Duck discovering the mysterious temple of the evil magician Merlock. As she tells the story, she is kidnapped by Merlock. His arch-rival Gladstone sets out to find her before Donald, who decides to use Gyro's new invention, the "Tubal Teleport System", to track down Merlock and Daisy. However, the machine does not have enough power to get there and for it to reach Merlock's lair, Donald must go on a journey to plant an antenna at certain locations in order to boost the machine's power. Along the way, he must compete with Gladstone, reverse the spells that Merlock put on Huey, Dewey, and Louie's toys, and defeat several bosses, including the Beagle Boys and Magica De Spell. In the end, Donald is able to locate Merlock; he defeats him and rescues Daisy. The temple collapses, but Gyro is able to teleport them back to his lab, where Donald receives a kiss from Daisy for saving her.
+
+
+== Development ==
+The PS2 and GameCube versions of the game were developed by Ubi Soft Montreal in a collaboration with Disney Interactive as an  homage to Disney comic book artist Carl Barks, who died the same year. The Nintendo 64, Dreamcast, PC and PS1 versions of the game are built on an optimized Rayman 2 engine. The score for Goin' Quackers was composed by Shawn K. Clement. The Nintendo 64 version is completely original from the PS2 version, those consoles being too different; the N64 and Dreamcast versions was developed in Casablanca (Morocco) and is known as the first console video game made on the African continent. The Game Boy Color version was developed by Ubi Soft Milano.
+
+
+== Donald Duck Advance ==
+Donald Duck Advance is a re-release of the original game for Game Boy Advance. This version was developed by Ubi Soft Shanghai, who were responsible for developing the PS1 version. It was released December 15, 2001 in North America; and November 16, 2001 in the PAL region.
+Donald Duck Advance ditches the original 3D segments for a complete 2D approach to the game, not unlike Ubisoft's original Rayman game.
+
+
+== Version differences ==
+
+
+=== N64/PC/Dreamcast version ===
+The soundtrack is Daniel Masson's version.
+The PC/Dreamcast versions are nearly identical to the N64 version, but include improved graphics and sound, and FMV cutscenes.
+The PC/Dreamcast versions textures for the final boss are slightly different to that of the N64.
+The Dreamcast/PC versions lacks invincibility music when Donald picks up milkshakes.
+The three versions were lacking in special moves.
+
+
+=== PS1 version ===
+A completely different soundtrack  composed by Shawn K. Clement; This version contains fewer songs in total, emphasizing that music can become out of context compared to what is going on in the game itself.
+Whereas in the N64/PC/Dreamcast versions the stages are split between either 3D or 2D, the PS1 version often combines them into a single level.
+This version has differences in level designs and bosses.
+This version lacks special moves.
+The maximum percentage in this version is 112% which requires the collection of all toys and the completion of all levels and Time Trials.
+
+
+=== PS2/GameCube version ===
+Uses the PS1 soundtrack. These versions lack Gyro Labs and World themes.
+Similar to PS1 version, the stages alternate between 3D and 2D.
+Unlike other home console versions, each chase level now has the Hand as "boss", except for Magica's Manor which does not have a chase level.
+These versions lack one level in both Duckburg and Magica's Manor worlds.
+They also had differences in levels and bosses unlike N64/PC/Dreamcast and PS1 version.
+In these versions, the stages (except boss battles) must be completed in a certain time.
+These versions are unique in that they have 14 special moves, which are not found in other versions.
+The Chase Theme (Magica's Manor), only plays in GameCube version during the credits, unlike the PS1 and PS2 versions, where this remains unused.
+Even the PS2 and GameCube version are pretty much the same version. They are a few different things between these two. The levels are slightly different in the GC version, like some platforms being removed, making this version a little harder to beat. Some text font was changed and the Donald icon in life counter was smaller in the GC version.
+
+
+== Reception ==
+
+Goin' Quackers has received mixed to positive reviews. Jon Thompson of Allgame reviewed the PlayStation 2 version and commented that although "it's an easy, competent game, it won't bother you while you're playing it because everything is so darned fun."Gerald Villoria of GameSpot praised the Nintendo GameCube version's music, saying it was of solid quality with "uplifting" and "upbeat" melodies, but he criticized the game's short length.IGN's Craig Harris lauded the Game Boy Color version's graphics, citing "stunning" character motions and "beautiful" backgrounds, although he also was dissatisfied with the length of the game.Villoria also reviewed the Dreamcast version; he felt the CG sequences were "great", and that the character animations were "fluid" and "seamless". He also commented that the level designs were much more interesting than in the PlayStation and Nintendo 64 versions. Although Villoria thought the Dreamcast and PlayStation versions were very similar, he felt the Dreamcast version suffered in terms of gameplay since it did not feature special moves.Cory D. Lewis of IGN reviewed the Nintendo 64 version, commenting that the game is better suited for younger players and will bore older gamers. He also stated that despite the Nintendo 64 version reusing the optimized Rayman 2 engine, the visuals in Goin' Quackers could not compare to the same level of quality the engine provided a year ago. Moreover, he praised the "bright-colored" cartoon objects and animations.The PlayStation version was reviewed by Adam Cleveland on IGN, who found the game to be "a lot of fun". He commented that the bosses were creative and fun, but that they were extremely simple and provided little challenge. He summed up the review by stating "Although it may be on the quick and easy side, it's got all the right stuff."
+
+
+== See also ==
+List of Disney video games
+
+
+== References ==
+
+
+== External links ==
+Donald Duck: Goin' Quackers (Dreamcast, Microsoft Windows, Nintendo 64) at MobyGames
+Donald Duck: Goin' Quackers (Game Boy Color) at MobyGames
+Donald Duck: Goin' Quackers (GameCube, PlayStation 2) at MobyGames
+Donald Duck: Goin' Quackers (PlayStation) at MobyGames

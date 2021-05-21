@@ -1,0 +1,33 @@
+Swingerz Golf (Ace Golf in Europe and Wai Wai Golf (わいわいゴルフ, Wai Wai Gorufu, "Wai Wai Golf") in Japan) is a sports video game released by Telenet Japan in 2002. It is a golf simulation game that allows the player to choose from 14 different characters, each with different strengths and weaknesses, to play on any of the game's 6 courses, varying greatly in difficulty and atmosphere. Along with normal match and stroke modes of play, the game offers a tour mode, which simulates the career of a chosen character, a mission mode, consisting of a series of challenges that gradually increase in difficulty, and minigames, including a sudden death style of gameplay and a near-pin style of gameplay.The game was released under Eidos' short-lived Fresh Games branding, and is the only game within its lineup to be a GameCube exclusive, while the other four games were PlayStation 2 exclusives.
+
+
+== Gameplay ==
+
+
+=== Controls ===
+
+Swingerz Golf was made exclusively for GameCube, so the controls are designed specifically for a GameCube controller. The player-controlled golfer can be aimed in any direction with the analog stick and can change clubs with the R and L buttons to in any distance or direction possible up to that golfer's particular power limitations. With the X and Y buttons, the player may raise up the camera angle, zoom in on the hole, or rotate the camera around to see what is around an obstacle. Hitting the B button will switch between a power shot and a normal shot. To swing, the player pulls back on the C Stick until the desired power level is reached, then flicks it forward. The accuracy of the shot depends on how straight the stick was moved. If it is nearly or exactly straight, the word "Excellent" will show and the player's character will regain a bit of stamina. Ratings of "Great" and "Good" mean the ball will fly more or less straight, but the player will lose stamina. A rating of "Bad" or "Poor" means that the character will miss the ball, hit it short, or hit it well off the mark. By holding the D-pad in any direction during the swing, the player may add spin to the ball to give it a certain flight pattern or behavior upon landing. On the green, controls are similar, but there are some added visual cues. Once the player has reached or is close enough to see the green, a grid appears, showing the player how a ball will react on any given part of the green. Pressing left and right on the D-pad will make the lines thicker and more bold, making it easier to see on televisions that have a lower display resolutions.
+
+
+=== Modes of Play ===
+The primary mode of single-player gameplay in Swingerz Golf is the Tour Mode. In this mode, the player is given a series of tournaments and duels to play through in order to unlock new characters as well as specialty clubs and balls.
+In addition to the Tour Mode, Swingerz Golf has an exhibition mode for both match play and stroke play, a practice mode, a survival mode, and a mission mode. In exhibition mode, players may play a game without any consequence to his current game status. Survival mode pits the player against successively harder computer opponents until he loses a one-hole skin match. Mission mode gives the player several levels of challenging scenarios to complete. Challenges include hitting the ball within a certain distance of the cup, hitting a given number of "Excellent" rated shots in a row, and holing out under par, among others.
+
+
+=== Multiplayer ===
+Although Swingerz Golf does not support online play, it does support multiplayer gaming over one console. Up to four players or computer-controller players can play a match together, even if 4 controllers are not available. There are three modes of multiplayer play. These are stroke play, skins, and near-pin. In stroke play, two to four players compete against each other over 18 holes of any chosen course. The winner is the player who has the lowest score at the end of the 18th hole. In match play, 2 players play through 18 holes, competing for the lowest score on each hole. For each hole, the player who achieves the lowest score earns a point. The player with the most points at the end of the last hole wins. In near-pin mode, each player gets one shot per hole. The player that lands on the green closest to the pin wins that particular hole. Scoring and winning are the same as that of match play.
+
+
+== Reception ==
+
+The game was met with average reception upon release, as GameRankings gave it a score of 70.50%, while Metacritic gave it 72 out of 100.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Swingerz Golf at MobyGames

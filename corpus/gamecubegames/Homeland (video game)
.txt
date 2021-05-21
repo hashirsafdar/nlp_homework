@@ -1,0 +1,22 @@
+Homeland (Japanese: ホームランド, Hepburn: hōmurando) is a role-playing video game for the GameCube developed and published by Chunsoft, and was released in Japan on April 29, 2005.
+The game can be played offline in single-player mode, or online in multiplayer mode over the Internet or on a LAN. In online mode, the player can assume the role of gamemaster and create an online game for up to thirty-five other players. It is one of only four titles for the GameCube designed for online play. It is unique among these games in a number of ways. It is the only one where the GameCube itself acts as the server, rather than the player using a central server. It is also the only online GameCube game that isn't a Phantasy Star Online title, and the only one not to get a release outside Japan.
+
+
+== Gameplay ==
+
+Homeland features nonlinear gameplay with branching storylines and multiple endings depending upon the player's actions and the number of players, and it features cooperative gameplay especially in multiplayer mode with up to 36 players.
+The player begins by choosing and naming a boy or girl avatar. Next, there is an introductory sequence of events in which the player answers a few questions that will determine which two mascots the player will have from the start. A mascot is a sort of avatar that the player's avatar transforms into before setting off on an adventure.
+Players begin each new adventure at level 1 and level up as they acquire experience points. A distinctive feature of Homeland is the ability of players to join hands and form a chain in order to combine their stats and special attributes. Players can be equipped with weapons, shields and accessories, and can carry a very limited number of items.
+In an offline game, the player can summon their other mascots to come and assist them as though they were other players. These mascots become their companions and are controlled by the game's AI. Companions can be equipped with weapons, shields and accessories, but cannot carry items.
+
+
+=== Cooperative play ===
+The online option does not become available until the first adventure has been completed offline. This ensures that the player has learned how to play before participating in a multiplayer game. Players communicate in a multiplayer game via text messages entered using the game controller and a menu-like visual keyboard, but keyboard controllers are not supported. A Nintendo GameCube Broadband Adapter (DOL-015) is required for multiplayer mode on the internet. The GameCube Modem Adapter (DOL-012) is not supported.Players in a multiplayer game do not normally battle each other; instead they benefit by helping each other to battle enemies and achieve common objectives. Some storylines cannot be completed without coordinated actions by a number of players. When players join hands to form a chain, the lead player in the chain is in control and is the only one able to attack or to receive damage.
+The gamemaster begins a new game by selecting the "god" mascot and setting up the game parameters. During the game the gamemaster sees a map of the entire homeland and can "descend" to locations where there are players. The gamemaster can see a name list of all the players in the game, and can "jump" to the location of a selected player. Power points are needed to perform "miracles" (similar to skills) such as causing monsters or items to suddenly appear. In this way, the gamemaster is able to influence the game by helping or hindering the players. The gamemaster can suspend and save the game at any time and then resume from the saved state later; it is not necessary to keep the console switched on all the time. Game state is saved automatically every few minutes to the Memory Card in the game server console.
+
+
+== References ==
+
+
+== External links ==
+Official website (in Japanese)

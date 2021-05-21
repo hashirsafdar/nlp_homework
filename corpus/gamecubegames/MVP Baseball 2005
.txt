@@ -1,0 +1,59 @@
+MVP Baseball 2005 is a baseball video game developed and published by Electronic Arts. It features then-Boston Red Sox left fielder Manny Ramirez on its cover. The game features full Major League Baseball, Minor League Baseball, and Major League Baseball Players Association licenses. It holds the 98th spot on IGN's reader's choice top 100 games ever as of 2006. As with previous versions of the game, the announcers are Duane Kuiper and Mike Krukow, real-life announcers for the San Francisco Giants.
+A PlayStation Portable version of the game, titled just MVP Baseball, was later released in May 2005.
+Since its release, it has been considered by many to be one of the greatest baseball games of all time.
+
+
+== Gameplay ==
+MVP Baseball 2005 includes all 30 official Major League Baseball teams, stadiums, and all 30 unique dynasties, as well as the more than 1,000 individual players that populate their respective teams. A notable exclusion is Barry Bonds, who does not appear in the game due to his withdrawal from the MLBPA's licensing agreement. His "replacement" is a fictional player named Jon Dowd. Dowd bears no resemblance in appearance to Bonds, but his skills mimic those of Bonds. Like its predecessor MVP Baseball 2004, this game does not include Kevin Millar, who does not appear in the game because he is not a member of the MLBPA. His "replacement" is a fictional player named Anthony Friese. The game also includes authentic minor league teams and actual minor league players by including double-A and triple-A-level farm teams. 2005's installment includes ballclubs from the High Single-A ranks as well, giving each MLB team three levels of minor league farm clubs. 2 legends teams, 63 legendary players, 15 classic stadiums, 5 fantasy parks, and more than 100 retro uniforms round out the list of unlockable features. Rosters are current as of January 12, 2005, and the game included the then-new Washington Nationals, along with their then-temporary home, RFK Stadium. At the time, new rosters could be downloaded to the Xbox and PS2 versions by accessing their online play menus.MVP Baseball 2005 includes an exhibition mode, a manager's mode, two different franchise modes, a scenario editor, and a handful of baseball-themed practice games. The exhibition mode lets the player quickly set up a game against another team, and both pick a starting pitcher and adjust the lineup, if needed. The manager mode is simulated based on the choices the players make before the opening pitch. The player doesn't actually see the players swing or make plays. Instead, the player picks from a list of managerial choices, and the outcome of each play is printed on-screen in a running box score. The scenario editor lets players adjust 20 different variables—such as the teams involved, inning, count, who's on base, and so on—players can set up every possible scenario that has ever occurred in baseball history.A minor glitch in Kuiper's commentary is about switch-hitters who are currently batting, claiming the batter hits better from one side, but when looking at the batter's power and/or contact stats, they actually hit better from the other side. For example, although Lance Berkman's power and contact stats are both higher batting left-handed in the game by default, Kuiper will claim that Berkman hits better batting right-handed. Another quirk is that he claims Hack Wilson set the MLB single-season runs scored record with 192 in 1930. However, he actually set the MLB single-season RBIs record with 191 in 1930. The single-A Wilmington Blue Rocks' uniforms are misspelled, with an extra L in "Wilmington".
+
+
+== Franchise Modes ==
+Both the dynasty and owner's modes keep track of events and statistics. Injuries and suspensions occur throughout the season, requiring the players to adjust lineups accordingly. Other teams will offer trades, and some of the players' own players will ask to be traded. On the statistics side, the game keeps a running tally of the current and previous season statistics in 64 different categories, along with 120 years' worth of league leading stats.
+
+
+=== Dynasty Mode ===
+Dynasty Mode lets gamers draft and manage a team for up to 120 full seasons, including spring training games. Responsibilities include setting lineups, making trades, and shuffling players up and down through the team's three minor league farm clubs. Team chemistry, rivalries, and player moods are also variables in the dynasty mode that can be strengthened or weakened by win/loss records, player salaries, playing time, and position in the batting order or pitching rotation. The players' moods can be monitored via face icons in each player's profile. If a player is unhappy or wants to be traded, the player may send a message in MVP Inbox asking the players if they could consider their desires. The game gives the player a changing series of 1 and 3-year goals to live up to. Meeting these goals boosts managerial rating and team chemistry. Failing to do so has the opposite effect. Games can be played in real time, or chunks of the season can be simulated in one fell swoop. The dynasty mode in MVP Baseball 2004 had a bug that made it impossible for computer-generated players to evolve into A-list superstars unless the players actually played 95% of the team's games. That was fixed in the 2005 release. It's now possible to give players an added stats bonus by playing the batting and pitching minigames during spring training.
+
+
+=== Owner Mode ===
+The other franchise-style mode is called Owner Mode, and much like the similar mode in EA's Madden NFL games, it tacks ownership and financial responsibilities onto Dynasty Mode. Here, players can set ticket and concessions prices, hire staff, buy and sell new stadium shops, schedule promotional giveaways, and various stadium upgrades (such as scoreboards, additional seats, home run fireworks, and luxury boxes). The goal is to last for 30 years. There are a variety of player, team, and financial reports to look at that show team's progress on a daily and yearly basis. In Owner Mode, players may design a custom ballpark for their team. The ballpark editor lets the players pick from a set list of various locations, field shapes, and seat colors, as well as specific wall, grass, and dirt designs. It also lets players add on additional seating levels and grandstands throughout the course of the career.
+
+
+=== Features ===
+The most prominent new feature in the game is the "Hitter's Eye" system, which turns the baseball different colors in the pitcher's hand (stays white for fastballs, red for breaking pitches, green for off-speed pitches, pink for sinkers and orange for knuckleballs) and leaves a trail as the ball flies through the air toward the plate to aid in hitting, which game developers said had been too difficult in previous versions. In addition to the Hitter's Eye, an Owner Mode feature and pitching and hitting Mini-Games were added. Other minor features include the ability for the managers to argue with the umpires at any time (automatic ejection for arguing balls and strikes) and a slow motion overhead view of the plate that can be accessed after every pitch (pitch/swing analysis) to see pitch location or the batter's timing. Games can also be rained out, forcing a player to play a doubleheader. Minor league teams from the California, Carolina, and Florida State Leagues (High A) were added to their respective teams, although most Minor League rosters are incomplete and feature developer-created replacement players. The game also supported online play, but as of 2008, the servers for the Xbox and PS2 versions are unavailable.
+
+
+=== Soundtrack ===
+The soundtrack for MVP Baseball 2005 includes nine songs, all by different artists. The game was the first release for four of these songs, from artists ...And You Will Know Us by the Trail of Dead, The Bravery, Hot Hot Heat and Louis XIV. The soundtrack is widely held as one of the best in-game soundtracks of the 2000s.
+
+
+== Reception ==
+By July 2006, the PlayStation 2 version of MVP Baseball 2005 had sold 1 million copies and earned $29 million in the United States. Next Generation ranked it as the 55th highest-selling game launched for the PlayStation 2, Xbox or GameCube between January 2000 and July 2006 in that country. Combined console sales of MVP Baseball games released in the 2000s reached 3.5 million units in the United States by July 2006.
+
+
+=== Critical response ===
+
+The game was met with positive to average reception. GameRankings and Metacritic gave it a score of 87.53% and 88 out of 100 for the GameCube version; 87.10% and 87 out of 100 for the PlayStation 2 version; 86.96% and 86 out of 100 for the Xbox version; 84.57% and 85 out of 100 for the PC version; and 66.78% and 67 out of 100 for the PSP version.
+
+
+=== Awards ===
+The game was given an award for best sports video game of 2005 from X-Play.
+In May 2013 the game ranked fourth on a "Best sports video games" list by ESPN.MVP Baseball 2005 was a finalist for PC Gamer US's "Best Sports Game 2005" award, which ultimately went to Tiger Woods PGA Tour 06.
+
+
+=== Legacy ===
+After EA lost the license and ended the support for the game, the game's modding community continues the support and releases updated roster lists every year as also alternative leagues (e.g. MVP Caribe, MVP Mods, etc.).
+
+
+== See also ==
+MVP Baseball series
+MVP 06: NCAA Baseball
+Chronology of baseball video games
+
+
+== References ==
+
+
+== External links ==
+MVP Baseball 2005 at MobyGames
+MVP Baseball (PSP) at MobyGames

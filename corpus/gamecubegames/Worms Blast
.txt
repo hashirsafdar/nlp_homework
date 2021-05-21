@@ -1,0 +1,56 @@
+Worms Blast is a puzzle video game for Microsoft Windows, PlayStation 2, GameCube, Game Boy Advance and Mac OS X released in 2002, developed by Team17, and published by Ubi Soft. The Mac version was developed and published by Feral Interactive.
+
+
+== Characters ==
+The game is played with nine characters (three of them must be unlocked) and most of the characters are actually animal weapons from the plegmant Worms. Every character has a unique boat, and differing stats for Amount of Health, Boat Speed, Speed of Aiming Reticle, Turning Speed, and Boat Size.
+
+
+== Gameplay ==
+The gameplay is similar to that of Puzzle Bobble/Bust-a-Move, but with several key differences. There is a hexagonal grid of coloured blocks at the top of the screen, while the player's character sits on a boat floating in water. Unlike Puzzle Bobble, it is able to move side to side. There are multiple weapons that can be used, however the only weapon the player has to start with is a bazooka. As with Worms, holding down the fire button increases the power behind the weapon's launch, affecting how far it will travel. It is possible to fire the bazooka (and some other weapons, such as the grenade and dynamite) in an "arch", allowing players to reach difficult areas.
+Shooting blocks will have one of two effects:
+
+If the player hits a block that is either the same colour as the bazooka missile, or is a rainbow block, that block and any other same-coloured or rainbow blocks connected to it will be destroyed. Any blocks that are not the same colour will not be affected; however, if the only thing holding those blocks up was the coloured blocks that were just destroyed, those blocks will fall into the water.
+If the player hits a block that is a different colour from the bazooka missile, or is a "dead block" - an uncoloured, grey block - it will be recoloured to match the missile.Weapons are affected differently by other blocks.
+
+
+== Game modes ==
+
+
+=== Single-player puzzle mode ===
+In this mode, the player travels around the world (in a method slightly reminiscent of Capcom game Pang) completing puzzles. Again, differing from Puzzle Bobble, missions are usually more complex than simply clearing the blocks off the screen. Some may require the player to perform certain tasks (such as shooting down space ships made of blocks, or avoiding a snake-like series of blocks moving around the screen). The missions become progressively harder. The aim of the game is to reach the volcano in the centre.
+Unlike Puzzle Bobble, there are no walls in single-player mode. If the player fires a weapon off the screen, a heavy object (such as a cannonball, weight or fridge) will fall onto his or her character, reducing the player's health.
+Unlockable characters can be earned by reaching certain points on the map. It is not necessary to complete every puzzle to reach the centre, however this is the only way to unlock all three characters.
+
+
+=== Single-player ===
+Tournament-Competition. All Hi-Scores are for this mode only. It's actually a few missions from Puzzle mode. When one of those missions is completed it will appear in Tournament mode.
+Puzzle-Go around the map and complete 60 missions. When all missions are done 3 new characters will be unlocked. During the Puzzle mode some missions can be unlocked for the tournament mode.
+Player vs CPU-Play a game against computer.
+
+
+=== Multiplayer ===
+In all Multiplayer modes, the barrier separating the two players will open periodically. Players can use this opportunity to shoot at each other with their Bazooka in an attempt to reduce their health and ultimately knock them out of the game.
+
+Deathmatch- Both players start with 2 lives and try to survive as long as possible. The player that gets knocked out first loses.
+Don't Drop Em- The first player to allow a block to freefall into the water loses.
+Star Collection- First one who collects 5 stars wins.
+Tide Trial- Trying to survive as long as possible with water constantly rising.
+One line for two- When some blocks get destroyed enemy's blocks come down. The goal is to destroy blocks fast enough so enemy can't destroy it on time and ends up being crushed.
+Star race- The goal is to shoot targets (more targets destroyed means a player will faster reach the finish line) and survive longer than enemy or reach the end and collect the star.
+Survival-Standard blocks go down faster than usual, but they must not touch the water.
+Fight-There are only bouncy and dead blocks in this mode. The goal is to kill the foe. There are no stars in this mode, only crates.
+
+
+=== BLAST mode ===
+In Multiplayer mode, when standard blocks produce a chain reaction (more than 10 blocks must get destroyed), player should collect the falling fruits (every block becomes a fruit after being destroyed). If a player collects these fruits (10 or more) one letter of BLAST word on the bottom of the screen will get coloured. Each colour represents a letter:
+
+For B- red
+For L- yellow
+For A- purple
+For S- green
+For T- orangeWhen all letters are filled, BLAST mode begins. All the blocks on player's side of the screen vanish and targets begin to fall on parachutes. Shooting a target produces a Weapon Crate. BLAST mode lasts for approximately 30 seconds before the game continues as normal. During BLAST mode in Multiplayer mode the opponent can't attack with crate weapons and the wooden barrier doesn't open, but they can send the bazooka over the barrier.
+BLAST mode was not included on the Game Boy Advance version of the game.
+
+
+== External links ==
+Official website
