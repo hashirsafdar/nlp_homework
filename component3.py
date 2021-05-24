@@ -25,11 +25,11 @@ def save_identifiers():
         if token not in unique_tokens:
           unique_tokens.append(token)
 
-  # word2id = {}
-  # for i in range(len(unique_tokens)):
-  #   word2id[unique_tokens[i]] = i
-  # with open("word2id", "w") as json_file:
-  #   json.dump(word2id, json_file)
+  word2id = {}
+  for i in range(len(unique_tokens)):
+    word2id[unique_tokens[i]] = i
+  with open("id2word", "w") as json_file:
+    json.dump(word2id, json_file)
 
   document_titles = np.load("doc_titles.npy")
 
@@ -47,8 +47,8 @@ def save_identifiers():
     index +=1
 
 
-  # with open("id2word", "w") as json_file:
-  #   json.dump(identifiers_tokens, json_file)
+  with open("word2id", "w") as json_file:
+    json.dump(identifiers_tokens, json_file)
 
   return identifiers_tokens, identifiers_docs
 
@@ -193,11 +193,11 @@ def get_cosine_similarities(doc_term_matrix):
   '''
 
   games_games = games_games / (551 * 551)
-  games_war = games_war / (551 * 319)
-  games_movies = games_movies / (551 * 425)
-  war_war = war_war / (319 * 319)
-  war_movies = war_movies / (319 * 425)
-  movies_movies = movies_movies / (425 * 425)
+  games_war = games_war / (551 * 320)
+  games_movies = games_movies / (551 * 426)
+  war_war = war_war / (320 * 320)
+  war_movies = war_movies / (320 * 426)
+  movies_movies = movies_movies / (426 * 426)
 
   
   return [[games_games, games_war, games_movies],
@@ -244,21 +244,6 @@ def create_component_3_corpus():
 def remove_words_unique_to_document():
   unique_words = []
   all_words = {}
-  #I think our doc-term matrix has been constructed incorrectly because it says the term Japan only occurs in one document
-  #matrix = np.load("comp1BOW.npz")
-  #matrix = matrix['arr_0']
-  # unique_tokens = np.load("unique_tokens.npy")
-  # for i in range(len(matrix)):
-  #   column = []
-  #   for j in range(len(matrix[0])):
-  #     column.append(matrix[i][j])
-  #   num_zeroes = column.count(0.0)
-  #   if num_zeroes == len(matrix[0]) - 1:
-  #     print(unique_tokens[i])
-  #     unique_words.append(unique_tokens[i].lower())
-  
-  # print("Done", unique_words)
-  # return
   for root, dirs, files in os.walk("component_3_corpus"):
     for current_file in files:
       path = os.path.join(root, current_file)
@@ -333,19 +318,20 @@ def construct_tf_idf(token_ids, doc_ids):
 
   return doc_term_matrix
 
-
-# tokens, docs = load_tokens()
+# save_identifiers()
+tokens, docs = load_tokens()
 # BOW = bag_of_words(tokens, docs)
 # np.save("tf-idf", BOW)
-# similarity = get_cosine_similarities(BOW)
-# for s in similarity:
-#   print(s)
-# print(get_ten_most_related("Cars 2", docs, BOW))
+tf_idf_matrix = np.load("tf-idf.npy")
+similarity = get_cosine_similarities(tf_idf_matrix)
+for s in similarity:
+  print(s)
+# print(get_ten_most_related("American Chopper 2: Full Throttle", docs, tf_idf_matrix))
 
 #this creates a corpus using the files in the folder corpus but then lemmatizes
 #all of it and also removes stopwords and punctuations.
 #create_component_3_corpus()
-remove_words_unique_to_document()
+#remove_words_unique_to_document()
 #print(get_cosine_similarities(BOW))
 #np.save("component1data", BOW)
 
