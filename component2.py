@@ -4,7 +4,6 @@ import nltk
 nltk.download('punkt')
 import os
 
-
 def get_identifiers():
   # # loop to find all tokens and counts
   # unique_tokens = []
@@ -179,7 +178,6 @@ def get_cosine_similarities(doc_term_matrix):
   return [[games_games, games_war, games_movies],
           [0, war_war, war_movies],
           [0, 0, movies_movies]]
-
 
 tokens, docs = get_identifiers()
 BOW = bag_of_words(tokens, docs)
