@@ -67,7 +67,7 @@ def load_tokens():
   return loaded_word2id, identifiers_docs
 
 def bag_of_words(token_ids, doc_ids):
-  """ Returns a populated document-term numpy matrix.
+  """ Returns a populated tf-idf numpy matrix.
 
   token_ids -- dictionary mapping unique tokens to an id (column)
   doc_ids -- dictionary mapping document to id (row)
@@ -94,11 +94,11 @@ def bag_of_words(token_ids, doc_ids):
 
   for i in range(num_docs):
     doc_word_count = doc_term_matrix.sum(axis = 1)[i]
-    total_word_count = doc_term_matrix.sum(axis = 0)
+    total_docs_with_word = np.count_nonzero(doc_term_matrix, axis = 0)
     print("Construct tf-idf for doc number " + str(i) + " with word count " + str(doc_word_count))
     for j in range(num_tokens):
       tf = doc_term_matrix[i][j] / doc_word_count
-      idf = np.log10(1297/total_word_count[j])
+      idf = np.log10(1297/total_docs_with_word[j])
   
       tf_idf[i][j] = tf*idf
 
@@ -127,15 +127,15 @@ def get_ten_most_related(wikipedia_title, docs, doc_term_matrix):
       #for the related score otherwise it replaces the 0
       if relatedness > top_10[j][0] and (0.0,"") not in top_10:
         title = document_titles[i]
-        print("this \n")
-        print(relatedness)
+        #print("this \n")
+        #print(relatedness)
         top_10[j] = (relatedness, title)
         #return
         break
       elif top_10[j] == (0.0,""):
         title = document_titles[i]
-        print("that \n")
-        print(relatedness)
+        #print("that \n")
+        #print(relatedness)
         top_10[j] = (relatedness, title)  
         break
 
@@ -149,29 +149,34 @@ def get_cosine_similarities(doc_term_matrix):
   551-870 war
   871-1296 movies
   """
-  games_games = 0
-  games_war = 0
-  games_movies = 0
-  war_war = 0
-  war_movies = 0
-  movies_movies = 0
-  gg_count = 0
-  for x in range(1296):
+  games_games, gg_count = 0, 0
+  games_war, gw_count = 0, 0
+  games_movies, gm_count = 0, 0
+  war_war, ww_count = 0, 0
+  war_movies, wm_count = 0, 0
+  movies_movies, mm_count = 0, 0
+
+  for x in range(1297):
     print("Comparing document number " + str(x))
-    for y in range(1296):
+    for y in range(1297):
       relatedness = 1 - spatial.distance.cosine(doc_term_matrix[x], doc_term_matrix[y])
       if x <= 550 and y <= 550:
         gg_count += 1
         games_games += relatedness
       elif x <= 550 and y <= 870:
+        gw_count += 1
         games_war += relatedness
       elif x <=550 and y <= 1296:
+        gm_count += 1
         games_movies += relatedness
       elif x <= 870 and y <= 870:
+        ww_count += 1
         war_war += relatedness
       elif x <= 870 and y <= 1296:
+        wm_count += 1
         war_movies += relatedness
       elif x <= 1296 and y <= 1296: 
+        mm_count += 1
         movies_movies += relatedness
       else:
         print("ERROR \n")
@@ -192,12 +197,12 @@ def get_cosine_similarities(doc_term_matrix):
   1293rd -> 2
   '''
 
-  games_games = games_games / (551 * 551)
-  games_war = games_war / (551 * 320)
-  games_movies = games_movies / (551 * 426)
-  war_war = war_war / (320 * 320)
-  war_movies = war_movies / (320 * 426)
-  movies_movies = movies_movies / (426 * 426)
+  games_games = games_games / (gg_count)
+  games_war = games_war / (gw_count)
+  games_movies = games_movies / (gm_count)
+  war_war = war_war / (ww_count)
+  war_movies = war_movies / (wm_count)
+  movies_movies = movies_movies / (mm_count)
 
   
   return [[games_games, games_war, games_movies],
@@ -320,21 +325,16 @@ def construct_tf_idf(token_ids, doc_ids):
 
 # save_identifiers()
 tokens, docs = load_tokens()
-# BOW = bag_of_words(tokens, docs)
-# np.save("tf-idf", BOW)
+# tf_idf_matrix = bag_of_words(tokens, docs)
+# np.save("tf-idf", tf_idf_matrix)
 tf_idf_matrix = np.load("tf-idf.npy")
 similarity = get_cosine_similarities(tf_idf_matrix)
 for s in similarity:
   print(s)
-# print(get_ten_most_related("American Chopper 2: Full Throttle", docs, tf_idf_matrix))
+# print(get_ten_most_related("Dominican Civil War", docs, tf_idf_matrix))
 
 #this creates a corpus using the files in the folder corpus but then lemmatizes
 #all of it and also removes stopwords and punctuations.
 #create_component_3_corpus()
 #remove_words_unique_to_document()
-#print(get_cosine_similarities(BOW))
-#np.save("component1data", BOW)
-
-#get_identifiers()
-
 

@@ -97,15 +97,15 @@ def get_ten_most_related(wikipedia_title, docs, doc_term_matrix):
       #for the related score otherwise it replaces the 0
       if relatedness > top_10[j][0] and (0.0,"") not in top_10:
         title = document_titles[i]
-        print("this \n")
-        print(relatedness)
+        #print("this \n")
+        #print(relatedness)
         top_10[j] = (relatedness, title)
         #return
         break
       elif top_10[j] == (0.0,""):
         title = document_titles[i]
-        print("that \n")
-        print(relatedness)
+        #print("that \n")
+        #print(relatedness)
         top_10[j] = (relatedness, title)  
         break
 
@@ -120,13 +120,13 @@ def get_cosine_similarities(doc_term_matrix):
   551-870 war
   871-1296 movies
   """
-  games_games = 0
-  games_war = 0
-  games_movies = 0
-  war_war = 0
-  war_movies = 0
-  movies_movies = 0
-  gg_count = 0
+  games_games, gg_count = 0, 0
+  games_war, gw_count = 0, 0
+  games_movies, gm_count = 0, 0
+  war_war, ww_count = 0, 0
+  war_movies, wm_count = 0, 0
+  movies_movies, mm_count = 0, 0
+
   for x in range(1297):
     print("Comparing document number " + str(x))
     for y in range(1297):
@@ -135,14 +135,19 @@ def get_cosine_similarities(doc_term_matrix):
         gg_count += 1
         games_games += relatedness
       elif x <= 550 and y <= 870:
+        gw_count += 1
         games_war += relatedness
       elif x <=550 and y <= 1296:
+        gm_count += 1
         games_movies += relatedness
       elif x <= 870 and y <= 870:
+        ww_count += 1
         war_war += relatedness
       elif x <= 870 and y <= 1296:
+        wm_count += 1
         war_movies += relatedness
       elif x <= 1296 and y <= 1296: 
+        mm_count += 1
         movies_movies += relatedness
       else:
         print("BIG BOY ERROR \n")
@@ -163,12 +168,12 @@ def get_cosine_similarities(doc_term_matrix):
   1293rd -> 2
   '''
 
-  games_games = games_games / (551 * 551)
-  games_war = games_war / (551 * 320)
-  games_movies = games_movies / (551 * 426)
-  war_war = war_war / (320 * 320)
-  war_movies = war_movies / (320 * 426)
-  movies_movies = movies_movies / (426 * 426)
+  games_games = games_games / (gg_count)
+  games_war = games_war / (gw_count)
+  games_movies = games_movies / (gm_count)
+  war_war = war_war / (ww_count)
+  war_movies = war_movies / (wm_count)
+  movies_movies = movies_movies / (mm_count)
 
   
   return [[games_games, games_war, games_movies],
@@ -181,5 +186,5 @@ BOW = bag_of_words(tokens, docs)
 similarity = get_cosine_similarities(BOW)
 for s in similarity:
   print(s)
-#print(get_ten_most_related("American Chopper 2: Full Throttle", docs, BOW))
+# print(get_ten_most_related("Cars 2", docs, BOW))
 
